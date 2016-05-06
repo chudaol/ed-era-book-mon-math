@@ -24,5 +24,5 @@
        * [Знаходження невідомого компонента арифметичних дій](znahodzhennya_nevidomogo_komponenta_arifmetichnih.md)
    * [Математичні вирази. Рівності. Нерівності (протягом року)](matematichni_virazi_rivnosti_nerivnosti_protyagom_roku.md)
        * [Числові рівності і нерівності](chislovi_rvnosti__nervnosti.md)
-       * [Математичні вирази](matematichn_virazi.md)
+       * [Математичні вирази](matematichni_virazi.md)
 
