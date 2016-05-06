@@ -12,4 +12,5 @@
        * [Геометричні фігури](geometrichni_fguri.md)
    * [Числа. Дії з числами](chisla_dii_z_chislami.md)
        * [Лічба](lichba.md)
+       * Натуральні числа 1–10. Число 0.
 
