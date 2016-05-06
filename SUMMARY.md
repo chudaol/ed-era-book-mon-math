@@ -22,5 +22,5 @@
            * [Додавання й віднімання чисел на основі нумерації у межах 100](dodavannya_i_vidnimannya_chisel_na_osnovi_numeratsii.md)
            * [Додавання й віднімання чисел у межах 100 без переходу через розряд (ознайомлення)](dodavannya_i_vidnmannya_chisel_u_mezhah_100_bez_perehody.md)
        * [Знаходження невідомого компонента арифметичних дій](znahodzhennya_nevidomogo_komponenta_arifmetichnih.md)
-   * Математичні вирази. Рівності. Нерівності (протягом року)
+   * [Математичні вирази. Рівності. Нерівності (протягом року)](matematichn_virazi_rvnost_nervnost_protyagom_roku.md)
 
