@@ -13,5 +13,5 @@
    * [Числа. Дії з числами](chisla_dii_z_chislami.md)
        * [Лічба](lichba.md)
        * [Натуральні числа 1–10. Число 0](naturalni_chisla_1_10_chislo_0.md)
-       * Арифметичні дії
+       * [Арифметичні дії](arifmetichni_dii.md)
 
