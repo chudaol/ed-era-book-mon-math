@@ -3,6 +3,7 @@
         "addcssjs",
         "quiz",
         "mathjax",
+        "-comment",
         "-search"
     ],
     "pluginsConfig": {
