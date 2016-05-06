@@ -32,5 +32,5 @@
        * [Вартість](vartist.md)
        * [Час](chas.md)
        * [Дії з іменованими числами (величинами)](dii_iz_imenovanimi_chislami_velichinami.md)
-   * [Сюжетні задачі (протягом року)](syuzhetn_zadach_protyagom_roku.md)
+   * [Сюжетні задачі (протягом року)](syuzhetni_zadachi_protyagom_roku.md)
 
