@@ -11,5 +11,5 @@
        * [Просторові відношення](prostorovi_vidnoshennya.md)
        * [Геометричні фігури](geometrichni_fguri.md)
    * [Числа. Дії з числами](chisla_dii_z_chislami.md)
-       * Лічба
+       * [Лічба](lichba.md)
 
