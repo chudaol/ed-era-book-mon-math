@@ -6,4 +6,5 @@
 * [1 клас](chapter3.md)
    * [Узагальнення і систематизація математичних уявлень, сформованих у передшкільний період](uzagalnennya__sistematizatsya_matematichnih_uyavlen.md)
    * [Ознаки предметів](oznaki_predmetiv.md)
+   * Ознаки, пов’язані із поняттям величини
 
