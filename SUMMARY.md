@@ -19,4 +19,5 @@
        * [Нумерація чисел у концентрі «Сотня»](numeratsiya_chisel_u_kontsentri_sotnya.md)
            * [Десяток](desyatok.md)
            * [Усна та письмова нумерація у межах 100](usna_ta_pismova_numeratsya_u_mezhah_100.md)
+           * Додавання й віднімання чисел на основі нумерації у межах 100
 
