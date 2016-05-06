@@ -27,5 +27,5 @@
        * [Математичні вирази](matematichni_virazi.md)
    * [Величини (протягом року)](velichini_protyagom_roku.md)
        * [Довжина](dovzhina.md)
-       * Маса
+       * [Маса](masa.md)
 
