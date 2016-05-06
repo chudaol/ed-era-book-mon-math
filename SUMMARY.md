@@ -7,4 +7,5 @@
    * [Узагальнення і систематизація математичних уявлень, сформованих у передшкільний період](uzagalnennya__sistematizatsya_matematichnih_uyavlen.md)
    * [Ознаки предметів](oznaki_predmetiv.md)
    * [Ознаки, пов’язані із поняттям величини](oznaki_povyazani_z_ponyattyam_velichini.md)
+   * Просторові відношення. Геометричні фігури (протягом року)
 
