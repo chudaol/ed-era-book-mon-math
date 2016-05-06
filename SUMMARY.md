@@ -17,5 +17,5 @@
        * [Табличне додавання й віднімання в межах 10](tablichne_dodavannya_i_vidnmannya_v_mezhah_10.md)
        * [Відношення різницевого порівняння](vidnoshennya_riznitsevogo_porivnyannya.md)
        * [Нумерація чисел у концентрі «Сотня»](numeratsiya_chisel_u_kontsentri_sotnya.md)
-           * [Десяток](desatok.md)
+           * [Десяток](desyatok.md)
 
