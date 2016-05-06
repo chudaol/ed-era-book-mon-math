@@ -28,5 +28,5 @@
    * [Величини (протягом року)](velichini_protyagom_roku.md)
        * [Довжина](dovzhina.md)
        * [Маса](masa.md)
-       * Місткість
+       * [Місткість](mstkist.md)
 
