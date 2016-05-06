@@ -1,37 +1,23 @@
 # Ознаки предметів
 <table>
   <tr>
-    <td class="td" width="40%" align="center"><b>Зміст навчального матеріалу<b></td>
-    <td class="td" width="60%" align="center"><b>Державні вимоги до рівня загальноосвітньої підготовки учнів</b></td>
+    <td width="40%" align="center"><b>Зміст навчального матеріалу<b></td>
+    <td width="60%" align="center"><b>Державні вимоги до рівня загальноосвітньої підготовки учнів</b></td>
   </tr>
   <tr>
-    <td class="td" width="40%" style="vertical-align:top !important;"><b>Ознаки предметів</b><br>
+    <td width="40%" style="vertical-align:top !important;"><b>Ознаки предметів</b><br>
 Ознаки і властивості предметів.<br>
 Спільні та відмінні ознаки.<br>
 Об’єднання предметів у групу за спільною ознакою.<br> 
 Розбиття групи предметів  на підгрупи за спільною ознакою.<br></td>
-    <td class="td" width="60%" style="vertical-align:top !important;"><i><b>Учень (учениця):</b></i><br>
+    <td width="60%" style="vertical-align:top !important;"><i><b>Учень (учениця):</b></i><br>
 <i>розпізнає</i> предмети за розміром, формою, призначенням, кольором тощо;<br>
 <i>розуміє</i> узагальнювальні слова (без уживання терміну) «кожний», «всі», «крім», «один із», «хоча б один», «всі», «деякі», логічні сполучники «і» та «або»;<br> 
 <i>визначає</i> спільні та відмінні ознаки предметів навколишнього світу;<br>  
 <i>порівнює</i> предмети за вказаними ознаками;<br>
 <i>об’єднує</i> предмети в групу за спільною ознакою;<br> 
 <i>розбиває</i> предмети на групи за спільною ознакою;<br>
-<i>будує</i> висловлювання з використанням узагальнювальних слів та логічних сполучників з допомогою дорослого</p></td>
+<i>будує</i> висловлювання з використанням узагальнювальних слів та логічних сполучників з допомогою дорослого</td>
   </tr>
 </table>
 
-<div id="hypercomments_widget"></div>
-<script type="text/javascript">
-_hcwp = window._hcwp || [];
-_hcwp.push({widget:"Stream", widget_id: 74670});
-(function() {
-if("HC_LOAD_INIT" in window)return;
-HC_LOAD_INIT = true;
-var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage || "en").substr(0, 2).toLowerCase();
-var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true;
-hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://w.hypercomments.com/widget/hc/74670/"+lang+"/widget.js";
-var s = document.getElementsByTagName("script")[0];
-s.parentNode.insertBefore(hcc, s.nextSibling);
-})();
-</script>
