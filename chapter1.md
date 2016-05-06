@@ -27,10 +27,6 @@
 
 <div id="hypercomments_widget"></div>
 <script type="text/javascript">
-init();
-  require(["gitbook"], function (gitbook) {
-  gitbook.events.bind("page.change", init);
-});
 _hcwp = window._hcwp || [];
 _hcwp.push({widget:"Stream", widget_id: 74670});
 (function() {
