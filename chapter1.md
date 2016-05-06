@@ -1,23 +1,26 @@
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Пояснювальна записка
+=============================================
+<p>Курс математики – важлива складова навчання і виховання молодших школярів, основоположна частина математичної освіти. Цей курс у системі неперервної освіти ґрунтується на відповідному змісті Базового компонента дошкільної освіти.</p>
+<p>Навчання математики в початковій школі виконує низку значущих для загального розвитку особистості учня завдань, серед яких: формування здатності логічно міркувати, уміння виділяти властивості предметів і явищ навколишнього світу; виховання зосередженості, наполегливості, працьовитості, самостійності та ін.; розвиток інтелекту, пам’яті, мовлення, уяви.</p>
+<p>Програма з математики для 1–4 класів спрямована на реалізацію мети та завдань освітньої галузі, визначених у Державному стандарті початкової загальної освіти.<p>
+<p>Навчання математики забезпечує формування у молодших школярів ключових компетентностей, з-поміж яких основною є «уміння вчитися». У результаті засвоєння змісту математики учні зможуть:
+<p>сприймати та визначати мету навчальної діяльності;
+<p>зосереджуватися на предметі діяльності;
+<p>організовувати свою діяльність для досягнення суб’єктно чи суспільно значущого результату;
+<p>відбирати й застосовувати потрібні знання і способи діяльності для розв’язування навчальної задачі;
+<p>використовувати здобутий досвід в конкретній навчальній або життєвій ситуації;
+<p>висловлювати ціннісні ставлення щодо результату й процесу власної діяльності;
+<p>усвідомлювати, аналізувати, оцінювати, коригувати результати своєї діяльності.
+<p>Основним завданням навчання математики є опанування учнями предметних математичних компетенцій – обчислювальних, інформаційно-графічних, логічних, геометричних, алгебраїчних. Предметні компетенції є структурними елементами змісту математичної освіти. Їх базис становлять знання, уміння, навички, способи діяльності, яких набувають учні в процесі навчання. Результатом засвоєння предметних компетенцій є математична компетентність учнів. У контексті початкового навчання предметна математична компетентність розглядається як здатність учня актуалізувати, інтегрувати й застосовувати в конкретній життєвій або навчальній проблемній ситуації набуті знання, уміння, навички, способи діяльності.</p>
+<p>Предметна математична компетентність учнів виявляється у таких ознаках:
+<p>цілісне сприйняття світу, розуміння ролі математики у пізнанні дійсності; 
+<p>розпізнавання проблем, які розв’язуються із застосуванням математичних методів; 
+<p>здатність розв’язувати сюжетні задачі, логічно міркувати, виконувати дії за алгоритмом, обґрунтовувати свої дії; 
+<p>уміння користуватися математичною термінологією, знаковою і графічною інформацією;
+<p>уміння орієнтуватися на площині та у просторі;
+<p>здатність застосовувати обчислювальні навички й досвід вимірювання величин у практичних ситуаціях.
+<p>Важливу роль у формуванні компетентності учня відіграє набуття ним досвіду задоволення пізнавальних інтересів, проявів емоційно-ціннісних ставлень, творчої активності, спілкування, соціальних орієнтацій.</p> 
 
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
-
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
-
-Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
-
-<div id="hypercomments_widget"></div>
-<script type="text/javascript">
-_hcwp = window._hcwp || [];
-_hcwp.push({widget:"Stream", widget_id: 74671});
-(function() {
-if("HC_LOAD_INIT" in window)return;
-HC_LOAD_INIT = true;
-var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage || "en").substr(0, 2).toLowerCase();
-var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true;
-hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://w.hypercomments.com/widget/hc/74671/"+lang+"/widget.js";
-var s = document.getElementsByTagName("script")[0];
-s.parentNode.insertBefore(hcc, s.nextSibling);
-})();
-</script>
-<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+<p>Відповідно до Державного стандарту початкової загальної освіти курс математики будується за такими змістовими лініями: числа, дії з числами; величини; математичні вирази, рівності, нерівності; сюжетні задачі; просторові відношення, геометричні фігури; робота з даними.</p>
+<p>Основу змісту початкового курсу математики становить арифметика цілих невід’ємних чисел і вимірювання величин. На пропедевтичному рівні подаються елементи алгебри та геометрії.</p>
+<p>Програма побудована концентрично. Зміст розділів у кожному класі розширюється і доповнюється. Таким чином забезпечується поступове розширення і ускладнення навчального матеріалу, його актуалізація, повторення, закріплення. Це сприяє формуванню знань, умінь, навичок і способів діяльності на вищому рівні узагальнення. У зв’язку з цим розділи починаються із узагальнення і систематизації навчального матеріалу, який вивчався у попередньому класі (на попередньому ступені освіти), з подальшим його розвитком.</p>
