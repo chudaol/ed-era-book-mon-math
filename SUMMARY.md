@@ -30,5 +30,5 @@
        * [Маса](masa.md)
        * [Місткість](mstkist.md)
        * [Вартість](vartist.md)
-       * [Час](cha.md)
+       * [Час](chas.md)
 
