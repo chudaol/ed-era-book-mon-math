@@ -27,6 +27,10 @@
 
 <div id="hypercomments_widget"></div>
 <script type="text/javascript">
+init();
+  require(["gitbook"], function (gitbook) {
+  gitbook.events.bind("page.change", init);
+});
 _hcwp = window._hcwp || [];
 _hcwp.push({widget:"Stream", widget_id: 74670});
 (function() {
@@ -38,9 +42,5 @@ hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://w.hype
 var s = document.getElementsByTagName("script")[0];
 s.parentNode.insertBefore(hcc, s.nextSibling);
 })();
-    init();
-    require(["gitbook"], function (gitbook) {
-        gitbook.events.bind("page.change", init);
-    });
 </script>
 <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
