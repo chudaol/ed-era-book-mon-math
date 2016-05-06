@@ -23,4 +23,5 @@
            * [Додавання й віднімання чисел у межах 100 без переходу через розряд (ознайомлення)](dodavannya_i_vidnmannya_chisel_u_mezhah_100_bez_perehody.md)
        * [Знаходження невідомого компонента арифметичних дій](znahodzhennya_nevidomogo_komponenta_arifmetichnih.md)
    * [Математичні вирази. Рівності. Нерівності (протягом року)](matematichni_virazi_rivnosti_nerivnosti_protyagom_roku.md)
+       * Числові рівності і нерівності
 
