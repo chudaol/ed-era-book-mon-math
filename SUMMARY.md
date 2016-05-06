@@ -25,5 +25,5 @@
    * [Математичні вирази. Рівності. Нерівності (протягом року)](matematichni_virazi_rivnosti_nerivnosti_protyagom_roku.md)
        * [Числові рівності і нерівності](chislovi_rvnosti__nervnosti.md)
        * [Математичні вирази](matematichni_virazi.md)
-   * [Величини (протягом року)](velichini__roku.md)
+   * [Величини (протягом року)](velichini_protyagom_roku.md)
 
