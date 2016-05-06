@@ -29,5 +29,5 @@
        * [Довжина](dovzhina.md)
        * [Маса](masa.md)
        * [Місткість](mstkist.md)
-       * Вартість 
+       * [Вартість](vartist.md)
 
