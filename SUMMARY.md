@@ -31,5 +31,5 @@
        * [Місткість](mstkist.md)
        * [Вартість](vartist.md)
        * [Час](chas.md)
-       * Дії з іменованими числами (величинами)
+       * [Дії з іменованими числами (величинами)](dii_iz_imenovanimi_chislami_velichinami.md)
 
