@@ -37,4 +37,5 @@
        * [Прості задачі](prosti_zadachi.md)
        * [Загальні прийоми розв’язування задач](zagalni_priiomi_rozvyazuvannya_zadach.md)
    * [Додаткові теми](dodatkovi_temi.md)
+* 2 клас
 
