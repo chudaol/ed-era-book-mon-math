@@ -35,5 +35,5 @@
    * [Сюжетні задачі (протягом року)](syuzhetni_zadachi_protyagom_roku.md)
        * [Поняття «задача»](ponyattya_zadacha.md)
        * [Прості задачі](prosti_zadachi.md)
-       * Загальні прийоми розв’язування задач
+       * [Загальні прийоми розв’язування задач](zagalni_priiomi_rozvyazuvannya_zadach.md)
 
