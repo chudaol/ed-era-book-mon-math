@@ -18,4 +18,5 @@
        * [Відношення різницевого порівняння](vidnoshennya_riznitsevogo_porivnyannya.md)
        * [Нумерація чисел у концентрі «Сотня»](numeratsiya_chisel_u_kontsentri_sotnya.md)
            * [Десяток](desyatok.md)
+           * Усна та письмова нумерація у межах 100
 
