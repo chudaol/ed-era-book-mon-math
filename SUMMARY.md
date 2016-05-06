@@ -21,5 +21,5 @@
            * [Усна та письмова нумерація у межах 100](usna_ta_pismova_numeratsya_u_mezhah_100.md)
            * [Додавання й віднімання чисел на основі нумерації у межах 100](dodavannya_i_vidnimannya_chisel_na_osnovi_numeratsii.md)
            * [Додавання й віднімання чисел у межах 100 без переходу через розряд (ознайомлення)](dodavannya_i_vidnmannya_chisel_u_mezhah_100_bez_perehody.md)
-       * Знаходження невідомого компонента арифметичних дій
+       * [Знаходження невідомого компонента арифметичних дій](znahodzhennya_nevdomogo_komponenta_arifmetichnih_d.md)
 
