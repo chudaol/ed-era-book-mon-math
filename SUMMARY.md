@@ -34,4 +34,5 @@
        * [Дії з іменованими числами (величинами)](dii_iz_imenovanimi_chislami_velichinami.md)
    * [Сюжетні задачі (протягом року)](syuzhetni_zadachi_protyagom_roku.md)
        * [Поняття «задача»](ponyattya_zadacha.md)
+       * Прості задачі
 
