@@ -36,4 +36,5 @@
        * [Поняття «задача»](ponyattya_zadacha.md)
        * [Прості задачі](prosti_zadachi.md)
        * [Загальні прийоми розв’язування задач](zagalni_priiomi_rozvyazuvannya_zadach.md)
+   * Додаткові теми
 
