@@ -49,5 +49,5 @@
        * [Табличне множення та ділення](tablichne_mnozhennya_ta_dylennya.md)
            * [Арифметичні дії множення і ділення](arifmetichny_dii_mnozhennya_ta_dylennya.md)
            * [Таблиці множення і ділення](tablitsy_mnozhennya_ta_dylennya.md)
-           * Відношення кратного порівняння
+           * [Відношення кратного порівняння](vydnoshennya_kratnogo_poryvnyannya.md)
 
