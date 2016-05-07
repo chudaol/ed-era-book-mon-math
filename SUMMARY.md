@@ -6,7 +6,7 @@
 * [1 клас](1/chapter3.md)
    * [Узагальнення і систематизація математичних уявлень, сформованих у передшкільний період](1/uzagalnennya__sistematizatsya_matematichnih_uyavlen.md)
        * [Ознаки предметів](1/oznaky_predmetiv.md)
-       * [Ознаки, пов’язані із поняттям величини](oznaki_povyazani_z_ponyattyam_velychini.md)
+       * [Ознаки, пов’язані із поняттям величини](1/oznaki_povyazani_z_ponyattyam_velychini.md)
    * [Просторові відношення. Геометричні фігури (протягом року)](prostorovi_vidnoshennya_geometrichnix_figuri.md)
        * [Просторові відношення](prostorovi_vidnoshennya.md)
        * [Геометричні фігури](geometrichni_fguri.md)
