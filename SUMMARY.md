@@ -62,4 +62,5 @@
    * [Математичні вирази. Рівності. Нерівності (протягом року)](matematichny_virazi_ryvnosty_neryvnosty_protyagom_roku.md)
        * [Узагальнення і систематизація навчального матеріалу за 1-й клас](uzagalnennya_i_sistematizatsya_navchalnogo_materalu_za_1_klas.md)
        * [Математичні вирази](matematichny_virazi.md)
+           * Математичні вирази: добуток та частка
 
