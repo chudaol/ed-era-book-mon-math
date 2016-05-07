@@ -56,7 +56,7 @@
            * [Пряма, промінь, відрізок](2/pryama_promyn_vydryzok.md)
            * [Кути](2/kuty.md)
        * [Ламана](2/lamana.md)
-       * [Многокутник](mnogokutnyk.md)
+       * [Многокутник](2/mnogokutnyk.md)
        * [Прямокутник](pryamokutnyk.md)
        * [Коло і круг](kolo_ta_krug.md)
    * [Математичні вирази. Рівності. Нерівності (протягом року)](matematichny_virazi_ryvnosty_neryvnosty_protyagom_roku.md)
