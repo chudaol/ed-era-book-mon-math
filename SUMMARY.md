@@ -9,7 +9,7 @@
        * [Ознаки, пов’язані із поняттям величини](1/oznaki_povyazani_z_ponyattyam_velychini.md)
    * [Просторові відношення. Геометричні фігури (протягом року)](1/prostorovi_vidnoshennya_geometrichnix_figuri.md)
        * [Просторові відношення](1/prostorovi_vidnoshennya.md)
-       * [Геометричні фігури](geometrichni_fguri.md)
+       * [Геометричні фігури](1/geometrichni_fguri.md)
    * [Числа. Дії з числами](chisla_dii_z_chislami.md)
        * [Лічба](lichba.md)
        * [Натуральні числа 1–10. Число 0](naturalni_chisla_1_10_chislo_0.md)
