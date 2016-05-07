@@ -57,5 +57,5 @@
            * [Кути](kuty.md)
        * [Ламана](lamana.md)
        * [Многокутник](mnogokutnyk.md)
-       * Прямокутник
+       * [Прямокутник](pryamokutnyk.md)
 
