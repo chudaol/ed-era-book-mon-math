@@ -72,5 +72,5 @@
        * [Периметр  многокутника](perimetr_mnogokutnika.md)
    * [Сюжетні задачі  (протягом року)](syuzhetny_zadachy_protyagom_roku.md)
        * [Узагальнення і систематизація навчального матеріалу за  1-й клас](uzagalnennya_ta_sistematizatsya_navchalnogo_materalu_za_1_klas.md)
-       * Прості задачі
+       * [Прості задачі](prosty_zadachy.md)
 
