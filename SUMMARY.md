@@ -79,4 +79,5 @@
        * [Загальні прийоми розв’язування задач](2/zagalny_priiomi_rozvyazuvannya_zadach.md)
    * [Додаткові теми](2/dodatkovy_temi.md)
 * [3 клас](3/3_klas.md)
+   * Числа. Дії з числами
 
