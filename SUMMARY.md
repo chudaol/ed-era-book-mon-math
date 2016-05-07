@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+   * 3/3 клас
 * [Пояснювальна записка](poyasnuvalna_zapyska.md)
 * [Характеристика змісту навчання](kharakteristyka_zmisty_navchannya.md)
 * [1 клас](1/chapter3.md)
