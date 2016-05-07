@@ -98,4 +98,5 @@
        * [Вирази зі змінною](3/virazi_zi_zmynnoyu.md)
        * [Рівняння](3/ryvnyannya.md)
        * [Нерівності зі змінною](3/neryvnosty_zi_zmynnoyu.md)
+   * Величини (протягом року)
 
