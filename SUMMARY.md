@@ -56,5 +56,5 @@
            * [Пряма, промінь, відрізок](pryama_promyn_vydryzok.md)
            * [Кути](kuty.md)
        * [Ламана](lamana.md)
-       * Многокутник
+       * [Многокутник](mnogokutnyk.md)
 
