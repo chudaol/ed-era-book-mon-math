@@ -73,7 +73,7 @@
    * [Сюжетні задачі  (протягом року)](2/syuzhetny_zadachy_protyagom_roku.md)
        * [Узагальнення і систематизація навчального матеріалу за  1-й клас](2/uzagalnennya_ta_sistematizatsya_navchalnogo_materalu_za_1_klas.md)
        * [Прості задачі](2/prosty_zadachy.md)
-       * [Поняття складеної задачі](ponyattya_skladenoy_zadachy.md)
+       * [Поняття складеної задачі](2/ponyattya_skladenoy_zadachy.md)
        * [Розв’язування складених задач](rozvyazuvannya_skladenih_zadach.md)
        * [Розв’язування задач різними способами.](rozvyazuvannya_zadach_ryznymi_sposobami.md)
        * [Загальні прийоми розв’язування задач](zagalny_priiomi_rozvyazuvannya_zadach.md)
