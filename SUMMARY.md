@@ -66,7 +66,7 @@
            * [Числові вирази, які містять дужки](2/chislovy_virazi_yaky_mystyat_duzhki.md)
            * [Вирази зі змінною](2/virazi_zi_zmynnoyu.md)
    * [Величини (протягом року)](2/velychini_protyagom_roku.md)
-       * [Узагальнення і систематизація навчального матеріалу за 1-й клас](uzagalnennya_ta_sistematizatsya_navchalnogo_materalu.md)
+       * [Узагальнення і систематизація навчального матеріалу за 1-й клас](2/uzagalnennya_ta_sistematizatsya_navchalnogo_materalu.md)
        * [Час](chas_2_klas.md)
        * [Іменовані числа](imenovany_chisla.md)
        * [Периметр  многокутника](perimetr_mnogokutnika.md)
