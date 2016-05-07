@@ -95,5 +95,5 @@
    * [Математичні вирази. Рівності. Нерівності (протягом року)](3/matematichn_virazi_rvnost_nervnost_protyagom_roku.md)
        * [Числові вирази](3/chislovy_virazi.md)
        * [Числові рівності й нерівності](3/chislovy_rvnosty_i_nervnosty.md)
-       * Вирази зі змінною 
+       * [Вирази зі змінною](3/virazi_zi_zmynnoyu.md)
 
