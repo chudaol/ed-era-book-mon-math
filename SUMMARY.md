@@ -62,7 +62,7 @@
    * [Математичні вирази. Рівності. Нерівності (протягом року)](2/matematichny_virazi_ryvnosty_neryvnosty_protyagom_roku.md)
        * [Узагальнення і систематизація навчального матеріалу за 1-й клас](2/uzagalnennya_i_sistematizatsya_navchalnogo_materalu_za_1_klas.md)
        * [Математичні вирази](2/matematichny_virazi.md)
-           * [Математичні вирази: добуток та частка](matematichny_virazi_dobutok_ta_chastka.md)
+           * [Математичні вирази: добуток та частка](2/matematichny_virazi_dobutok_ta_chastka.md)
            * [Числові вирази, які містять дужки](chislovy_virazi_yaky_mystyat_duzhki.md)
            * [Вирази зі змінною](virazi_zi_zmynnoyu.md)
    * [Величини (протягом року)](velychini_protyagom_roku.md)
