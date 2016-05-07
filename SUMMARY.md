@@ -16,7 +16,7 @@
        * [Арифметичні дії додавання й віднімання чисел у межах 10](1/arifmetichni_dii_dodavannya_i_vdnmannya_chisel.md)
        * [Табличне додавання й віднімання в межах 10](1/tablichne_dodavannya_i_vidnmannya_v_mezhah_10.md)
        * [Відношення різницевого порівняння](1/vidnoshennya_riznitsevogo_porivnyannya.md)
-       * [Нумерація чисел у концентрі «Сотня»](numeratsiya_chisel_u_kontsentri_sotnya.md)
+       * [Нумерація чисел у концентрі «Сотня»](1/numeratsiya_chisel_u_kontsentri_sotnya.md)
            * [Десяток](desyatok.md)
            * [Усна та письмова нумерація у межах 100](usna_ta_pismova_numeratsya_u_mezhah_100.md)
            * [Додавання й віднімання чисел на основі нумерації у межах 100](dodavannya_i_vidnimannya_chisel_na_osnovi_numeratsii.md)
