@@ -90,4 +90,5 @@
        * [Множення і ділення трицифрових чисел](3/mnozhennya_ta_dylennya_tritsifrovih_chisel.md)
            * [Закони та властивості](3/zakoni_ta_vlastivosty.md)
            * [Позатабличне множення і ділення: усні обчислення](3/pozatablichne_mnozhennya_ta_dlennya_usne_obchislennya.md)
+       * Частини
 
