@@ -75,4 +75,5 @@
        * [Прості задачі](prosty_zadachy.md)
        * [Поняття складеної задачі](ponyattya_skladenoy_zadachy.md)
        * [Розв’язування складених задач](rozvyazuvannya_skladenih_zadach.md)
+       * Розв’язування задач різними способами.
 
