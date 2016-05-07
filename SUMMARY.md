@@ -46,5 +46,5 @@
            * [Додавання і віднімання чисел з переходом через десяток у межах 20](dodavannya__vydnmannya_chisel_z_perehodom_cherez.md)
            * [Таблиці додавання і віднімання](tablitsy_dodavannya_ta_vydnymannya.md)
            * [Усне додавання і віднімання чисел у межах 100 з переходом через розряд](usne_dodavannya__vydnymannya_chisel_u_mezhah_100_z_perehodom.md)
-       * Табличне множення та ділення
+       * [Табличне множення та ділення](tablichne_mnozhennya_ta_dylennya.md)
 
