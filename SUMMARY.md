@@ -104,4 +104,5 @@
        * [Час](3/chas.md)
        * [Периметр прямокутника (квадрата)](3/perimetr_pryamokutnika_kvadrata.md)
    * [Сюжетні задачі (протягом року)](3/syuzhetny_zadachy_protyagom_roku.md)
+       * Прості та складені задачі вивчених видів 
 
