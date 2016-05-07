@@ -82,4 +82,5 @@
    * [Числа. Дії з числами](3/chisla_dii_z_chislami.md)
        * [Узагальнення і систематизація навчального матеріалу за  2-й клас](3/uzagalnennya_ta_sistematizatsya_navchalnogo_materyalu.md)
        * [Таблиці множення і ділення (продовження)](3/tablitsy_mnozhennya_ta_dylennya_prodovzhennya.md)
+       * Нумерація чисел в концентрі «Тисяча»
 
