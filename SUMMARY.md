@@ -54,5 +54,5 @@
    * [Просторові відношення. Геометричні фігури (протягом року)](prostorovy_vydnoshennya_geometrichnyh_fyguri_protyagom_roku.md)
        * [Узагальнення і систематизація навчального матеріалу за 1-й клас](uzagalnennya_ta_sistematizatsya_navchalnogo_materyalu_za_1_klas.md)
            * [Пряма, промінь, відрізок](pryama_promyn_vydryzok.md)
-           * Кути 
+           * [Кути](kuty.md)
 
