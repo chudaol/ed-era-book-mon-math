@@ -92,5 +92,5 @@
            * [Позатабличне множення і ділення: усні обчислення](3/pozatablichne_mnozhennya_ta_dlennya_usne_obchislennya.md)
        * [Частини](3/chastini.md)
    * [Просторові відношення. Геометричні фігури (протягом року)](3/prostorovy_vydnoshennya_geometrichnyh_fguri_protyagom_roku.md)
-   * Математичні вирази. Рівності. Нерівності (протягом року)
+   * [Математичні вирази. Рівності. Нерівності (протягом року)](3/matematichn_virazi_rvnost_nervnost_protyagom_roku.md)
 
