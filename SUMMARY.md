@@ -39,7 +39,7 @@
    * [Додаткові теми](1/dodatkovi_temi.md)
 * [2 клас](2/2_klas.md)
    * [Числа. Дії з числами](2/chisla_dii_iz_chislami.md)
-       * [Узагальнення і систематизація навчального матеріалу за 1-й клас](uzagalnennya__sistematizatsya_navchalnogo_materyalu.md)
+       * [Узагальнення і систематизація навчального матеріалу за 1-й клас](2/uzagalnennya__sistematizatsya_navchalnogo_materyalu.md)
            * [Нумерація чисел першої сотні](numeratsya_chisel_pershoy_sotny.md)
            * [Арифметичні дії додавання й віднімання. Додавання і віднімання чисел у межах 100  без переходу через розряд](arifmetichny_dii_dodavannya_i_vydnymannya.md)
        * [Додавання і віднімання чисел у межах 100 з переходом через розряд](dodavannya__vydnmannya_chisel_u_mezhah_100.md)
