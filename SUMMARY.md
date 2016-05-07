@@ -31,7 +31,7 @@
        * [Місткість](1/mstkist.md)
        * [Вартість](1/vartist.md)
        * [Час](1/chas.md)
-       * [Дії з іменованими числами (величинами)](dii_iz_imenovanimi_chislami_velichinami.md)
+       * [Дії з іменованими числами (величинами)](1/dii_iz_imenovanimi_chislami_velichinami.md)
    * [Сюжетні задачі (протягом року)](syuzhetni_zadachi_protyagom_roku.md)
        * [Поняття «задача»](ponyattya_zadacha.md)
        * [Прості задачі](prosti_zadachi.md)
