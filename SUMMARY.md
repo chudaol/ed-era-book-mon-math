@@ -8,7 +8,7 @@
        * [Ознаки предметів](1/oznaky_predmetiv.md)
        * [Ознаки, пов’язані із поняттям величини](1/oznaki_povyazani_z_ponyattyam_velychini.md)
    * [Просторові відношення. Геометричні фігури (протягом року)](1/prostorovi_vidnoshennya_geometrichnix_figuri.md)
-       * [Просторові відношення](prostorovi_vidnoshennya.md)
+       * [Просторові відношення](1/prostorovi_vidnoshennya.md)
        * [Геометричні фігури](geometrichni_fguri.md)
    * [Числа. Дії з числами](chisla_dii_z_chislami.md)
        * [Лічба](lichba.md)
