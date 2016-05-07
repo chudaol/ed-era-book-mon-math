@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Пояснювальна записка](poyasnuvalna_zapyska.md)
-* [Характеристика змісту навчання](chapter2.md)
+* [Характеристика змісту навчання](kharakteristyka_zmisty_navchannya.md)
 * [1 клас](1/chapter3.md)
    * [Узагальнення і систематизація математичних уявлень, сформованих у передшкільний період](1/uzagalnennya__sistematizatsya_matematichnih_uyavlen.md)
        * [Ознаки предметів](1/oznaky_predmetiv.md)
