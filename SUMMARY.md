@@ -48,4 +48,5 @@
            * [Усне додавання і віднімання чисел у межах 100 з переходом через розряд](usne_dodavannya__vydnymannya_chisel_u_mezhah_100_z_perehodom.md)
        * [Табличне множення та ділення](tablichne_mnozhennya_ta_dylennya.md)
            * [Арифметичні дії множення і ділення](arifmetichny_dii_mnozhennya_ta_dylennya.md)
+           * Таблиці множення і ділення
 
