@@ -35,7 +35,7 @@
    * [Сюжетні задачі (протягом року)](1/syuzhetni_zadachi_protyagom_roku.md)
        * [Поняття «задача»](1/ponyattya_zadacha.md)
        * [Прості задачі](1/prosti_zadachi.md)
-       * [Загальні прийоми розв’язування задач](zagalni_priiomi_rozvyazuvannya_zadach.md)
+       * [Загальні прийоми розв’язування задач](1/zagalni_priiomi_rozvyazuvannya_zadach.md)
    * [Додаткові теми](dodatkovi_temi.md)
 * [2 клас](2_klas.md)
    * [Числа. Дії з числами](chisla_dii_iz_chislami.md)
