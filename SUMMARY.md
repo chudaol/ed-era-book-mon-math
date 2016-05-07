@@ -85,5 +85,5 @@
        * [Нумерація чисел в концентрі «Тисяча»](3/numeratsya_chisel_v_kontsentry_tisyacha.md)
            * [Арифметичні дії з числами на основі нумерації](3/arifmetichny_dii_z_chislami_na_osnovy_numeratsy.md)
        * [Додавання і віднімання трицифрових чисел](3/dodavannya_ta_vydnymannya_tritsifrovih_chisel.md)
-           * Усне додавання і віднімання круглих трицифрових чисел (450 + 270, 450 – 270)
+           * [Усне додавання і віднімання круглих трицифрових чисел (450 + 270, 450 – 270)](3/usne_dodavannya_ta_vydnymannya_kruglih_tritsifrovih_chysel.md)
 
