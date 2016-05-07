@@ -103,4 +103,5 @@
        * [Довжина. Маса](3/dovzhina_masa.md)
        * [Час](3/chas.md)
        * [Периметр прямокутника (квадрата)](3/perimetr_pryamokutnika_kvadrata.md)
+   * Сюжетні задачі (протягом року)
 
