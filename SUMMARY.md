@@ -60,4 +60,5 @@
        * [Прямокутник](pryamokutnyk.md)
        * [Коло і круг](kolo_ta_krug.md)
    * [Математичні вирази. Рівності. Нерівності (протягом року)](matematichny_virazi_ryvnosty_neryvnosty_protyagom_roku.md)
+       * Узагальнення і систематизація навчального матеріалу за 1-й клас
 
