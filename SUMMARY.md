@@ -15,7 +15,7 @@
        * [Натуральні числа 1–10. Число 0](1/naturalni_chisla_1_10_chislo_0.md)
        * [Арифметичні дії додавання й віднімання чисел у межах 10](1/arifmetichni_dii_dodavannya_i_vdnmannya_chisel.md)
        * [Табличне додавання й віднімання в межах 10](1/tablichne_dodavannya_i_vidnmannya_v_mezhah_10.md)
-       * [Відношення різницевого порівняння](vidnoshennya_riznitsevogo_porivnyannya.md)
+       * [Відношення різницевого порівняння](1/vidnoshennya_riznitsevogo_porivnyannya.md)
        * [Нумерація чисел у концентрі «Сотня»](numeratsiya_chisel_u_kontsentri_sotnya.md)
            * [Десяток](desyatok.md)
            * [Усна та письмова нумерація у межах 100](usna_ta_pismova_numeratsya_u_mezhah_100.md)
