@@ -51,5 +51,5 @@
            * [Таблиці множення і ділення](tablitsy_mnozhennya_ta_dylennya.md)
            * [Відношення кратного порівняння](vydnoshennya_kratnogo_poryvnyannya.md)
            * [Правила знаходження невідомих компонентів дій множення і ділення](pravila_znahodzhennya_nevydomih_komponentyv_diu_mnozhennya.md)
-   * Просторові відношення. Геометричні фігури (протягом року)
+   * [Просторові відношення. Геометричні фігури (протягом року)](prostorovy_vydnoshennya_geometrichnyh_fyguri_protyagom_roku.md)
 
