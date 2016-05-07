@@ -43,5 +43,5 @@
            * [Нумерація чисел першої сотні](numeratsya_chisel_pershoy_sotny.md)
            * [Арифметичні дії додавання й віднімання. Додавання і віднімання чисел у межах 100  без переходу через розряд](arifmetichny_dii_dodavannya_i_vydnymannya.md)
        * [Додавання і віднімання чисел у межах 100 з переходом через розряд](dodavannya__vydnmannya_chisel_u_mezhah_100.md)
-           * Додавання і віднімання чисел з переходом через десяток у межах 20
+           * [Додавання і віднімання чисел з переходом через десяток у межах 20](dodavannya__vydnmannya_chisel_z_perehodom_cherez.md)
 
