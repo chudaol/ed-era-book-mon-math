@@ -65,5 +65,5 @@
            * [Математичні вирази: добуток та частка](matematichny_virazi_dobutok_ta_chastka.md)
            * [Числові вирази, які містять дужки](chislovy_virazi_yaky_mystyat_duzhki.md)
            * [Вирази зі змінною](virazi_zi_zmynnoyu.md)
-   * Величини (протягом року)
+   * [Величини (протягом року)](velychini_protyagom_roku.md)
 
