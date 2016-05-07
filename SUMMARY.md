@@ -78,4 +78,5 @@
        * [Розв’язування задач різними способами.](2/rozvyazuvannya_zadach_ryznymi_sposobami.md)
        * [Загальні прийоми розв’язування задач](2/zagalny_priiomi_rozvyazuvannya_zadach.md)
    * [Додаткові теми](2/dodatkovy_temi.md)
+* 3/3 клас
 
