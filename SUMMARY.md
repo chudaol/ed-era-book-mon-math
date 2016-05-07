@@ -29,7 +29,7 @@
        * [Довжина](1/dovzhina.md)
        * [Маса](1/masa.md)
        * [Місткість](1/mstkist.md)
-       * [Вартість](vartist.md)
+       * [Вартість](1/vartist.md)
        * [Час](chas.md)
        * [Дії з іменованими числами (величинами)](dii_iz_imenovanimi_chislami_velichinami.md)
    * [Сюжетні задачі (протягом року)](syuzhetni_zadachi_protyagom_roku.md)
