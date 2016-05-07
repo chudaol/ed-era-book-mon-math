@@ -23,7 +23,7 @@
            * [Додавання й віднімання чисел у межах 100 без переходу через розряд (ознайомлення)](1/dodavannya_i_vidnmannya_chisel_u_mezhah_100_bez_perehody.md)
        * [Знаходження невідомого компонента арифметичних дій](1/znahodzhennya_nevidomogo_komponenta_arifmetichnih.md)
    * [Математичні вирази. Рівності. Нерівності (протягом року)](1/matematichni_virazi_rivnosti_nerivnosti_protyagom_roku.md)
-       * [Числові рівності і нерівності](chislovi_rvnosti__nervnosti.md)
+       * [Числові рівності і нерівності](1/chislovi_rvnosti__nervnosti.md)
        * [Математичні вирази](matematichni_virazi.md)
    * [Величини (протягом року)](velichini_protyagom_roku.md)
        * [Довжина](dovzhina.md)
