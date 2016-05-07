@@ -63,5 +63,5 @@
        * [Узагальнення і систематизація навчального матеріалу за 1-й клас](uzagalnennya_i_sistematizatsya_navchalnogo_materalu_za_1_klas.md)
        * [Математичні вирази](matematichny_virazi.md)
            * [Математичні вирази: добуток та частка](matematichny_virazi_dobutok_ta_chastka.md)
-           * Числові вирази, які містять дужки
+           * [Числові вирази, які містять дужки](chislovy_virazi_yaky_mystyat_duzhki.md)
 
