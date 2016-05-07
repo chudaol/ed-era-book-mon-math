@@ -33,7 +33,7 @@
        * [Час](1/chas.md)
        * [Дії з іменованими числами (величинами)](1/dii_iz_imenovanimi_chislami_velichinami.md)
    * [Сюжетні задачі (протягом року)](1/syuzhetni_zadachi_protyagom_roku.md)
-       * [Поняття «задача»](ponyattya_zadacha.md)
+       * [Поняття «задача»](1/ponyattya_zadacha.md)
        * [Прості задачі](prosti_zadachi.md)
        * [Загальні прийоми розв’язування задач](zagalni_priiomi_rozvyazuvannya_zadach.md)
    * [Додаткові теми](dodatkovi_temi.md)
