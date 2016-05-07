@@ -71,7 +71,7 @@
        * [Іменовані числа](2/imenovany_chisla.md)
        * [Периметр  многокутника](2/perimetr_mnogokutnika.md)
    * [Сюжетні задачі  (протягом року)](2/syuzhetny_zadachy_protyagom_roku.md)
-       * [Узагальнення і систематизація навчального матеріалу за  1-й клас](uzagalnennya_ta_sistematizatsya_navchalnogo_materalu_za_1_klas.md)
+       * [Узагальнення і систематизація навчального матеріалу за  1-й клас](2/uzagalnennya_ta_sistematizatsya_navchalnogo_materalu_za_1_klas.md)
        * [Прості задачі](prosty_zadachy.md)
        * [Поняття складеної задачі](ponyattya_skladenoy_zadachy.md)
        * [Розв’язування складених задач](rozvyazuvannya_skladenih_zadach.md)
