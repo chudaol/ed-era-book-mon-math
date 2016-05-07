@@ -42,4 +42,5 @@
        * [Узагальнення і систематизація навчального матеріалу за 1-й клас](uzagalnennya__sistematizatsya_navchalnogo_materyalu.md)
            * [Нумерація чисел першої сотні](numeratsya_chisel_pershoy_sotny.md)
            * [Арифметичні дії додавання й віднімання. Додавання і віднімання чисел у межах 100  без переходу через розряд](arifmetichny_dii_dodavannya_i_vydnymannya.md)
+           * Додавання і віднімання чисел у межах 100 з переходом через розряд
 
