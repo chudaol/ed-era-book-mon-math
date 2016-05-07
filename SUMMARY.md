@@ -77,5 +77,5 @@
        * [Розв’язування складених задач](rozvyazuvannya_skladenih_zadach.md)
        * [Розв’язування задач різними способами.](rozvyazuvannya_zadach_ryznymi_sposobami.md)
        * [Загальні прийоми розв’язування задач](zagalny_priiomi_rozvyazuvannya_zadach.md)
-   * Додаткові теми
+   * [Додаткові теми](dodatkovy_temi.md)
 
