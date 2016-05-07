@@ -28,7 +28,7 @@
    * [Величини (протягом року)](1/velichini_protyagom_roku.md)
        * [Довжина](1/dovzhina.md)
        * [Маса](1/masa.md)
-       * [Місткість](mstkist.md)
+       * [Місткість](1/mstkist.md)
        * [Вартість](vartist.md)
        * [Час](chas.md)
        * [Дії з іменованими числами (величинами)](dii_iz_imenovanimi_chislami_velichinami.md)
