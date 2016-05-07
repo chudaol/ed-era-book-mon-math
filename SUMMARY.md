@@ -40,4 +40,5 @@
 * [2 клас](2_klas.md)
    * [Числа. Дії з числами](chisla_dii_iz_chislami.md)
        * [Узагальнення і систематизація навчального матеріалу за 1-й клас](uzagalnennya__sistematizatsya_navchalnogo_materyalu.md)
+           * Нумерація чисел першої сотні
 
