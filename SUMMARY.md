@@ -101,5 +101,5 @@
    * [Величини (протягом року)](3/velichini_protyagom_roku.md)
        * [Узагальнення і систематизація навчального матеріалу за 2-й клас](3/uzagalnennya__sistematizatsya_navchalnogo_materyalu_za_2_klas.md)
        * [Довжина. Маса](3/dovzhina_masa.md)
-       * Час
+       * [Час](3/chas.md)
 
