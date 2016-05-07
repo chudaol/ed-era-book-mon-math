@@ -71,4 +71,5 @@
        * [Іменовані числа](imenovany_chisla.md)
        * [Периметр  многокутника](perimetr_mnogokutnika.md)
    * [Сюжетні задачі  (протягом року)](syuzhetny_zadachy_protyagom_roku.md)
+       * Узагальнення і систематизація навчального матеріалу за  1-й клас
 
