@@ -67,4 +67,5 @@
            * [Вирази зі змінною](virazi_zi_zmynnoyu.md)
    * [Величини (протягом року)](velychini_protyagom_roku.md)
        * [Узагальнення і систематизація навчального матеріалу за 1-й клас](uzagalnennya_ta_sistematizatsya_navchalnogo_materalu.md)
+       * Час
 
