@@ -70,5 +70,5 @@
        * [Час](chas_2_klas.md)
        * [Іменовані числа](imenovany_chisla.md)
        * [Периметр  многокутника](perimetr_mnogokutnika.md)
-   * Сюжетні задачі  (протягом року)
+   * [Сюжетні задачі  (протягом року)](syuzhetny_zadachy_protyagom_roku.md)
 
