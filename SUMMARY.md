@@ -51,7 +51,7 @@
            * [Таблиці множення і ділення](2/tablitsy_mnozhennya_ta_dylennya.md)
            * [Відношення кратного порівняння](2/vydnoshennya_kratnogo_poryvnyannya.md)
            * [Правила знаходження невідомих компонентів дій множення і ділення](2/pravila_znahodzhennya_nevydomih_komponentyv_diu_mnozhennya.md)
-   * [Просторові відношення. Геометричні фігури (протягом року)](prostorovy_vydnoshennya_geometrichnyh_fyguri_protyagom_roku.md)
+   * [Просторові відношення. Геометричні фігури (протягом року)](2/prostorovy_vydnoshennya_geometrichnyh_fyguri_protyagom_roku.md)
        * [Узагальнення і систематизація навчального матеріалу за 1-й клас](uzagalnennya_ta_sistematizatsya_navchalnogo_materyalu_za_1_klas.md)
            * [Пряма, промінь, відрізок](pryama_promyn_vydryzok.md)
            * [Кути](kuty.md)
