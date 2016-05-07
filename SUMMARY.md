@@ -80,5 +80,5 @@
    * [Додаткові теми](2/dodatkovy_temi.md)
 * [3 клас](3/3_klas.md)
    * [Числа. Дії з числами](3/chisla_dii_z_chislami.md)
-       * Узагальнення і систематизація навчального матеріалу за  2-й клас
+       * [Узагальнення і систематизація навчального матеріалу за  2-й клас](3/uzagalnennya_ta_sistematizatsya_navchalnogo_materyalu.md)
 
