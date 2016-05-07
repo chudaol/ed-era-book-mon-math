@@ -19,7 +19,7 @@
        * [Нумерація чисел у концентрі «Сотня»](1/numeratsiya_chisel_u_kontsentri_sotnya.md)
            * [Десяток](1/desyatok.md)
            * [Усна та письмова нумерація у межах 100](1/usna_ta_pismova_numeratsya_u_mezhah_100.md)
-           * [Додавання й віднімання чисел на основі нумерації у межах 100](dodavannya_i_vidnimannya_chisel_na_osnovi_numeratsii.md)
+           * [Додавання й віднімання чисел на основі нумерації у межах 100](1/dodavannya_i_vidnimannya_chisel_na_osnovi_numeratsii.md)
            * [Додавання й віднімання чисел у межах 100 без переходу через розряд (ознайомлення)](dodavannya_i_vidnmannya_chisel_u_mezhah_100_bez_perehody.md)
        * [Знаходження невідомого компонента арифметичних дій](znahodzhennya_nevidomogo_komponenta_arifmetichnih.md)
    * [Математичні вирази. Рівності. Нерівності (протягом року)](matematichni_virazi_rivnosti_nerivnosti_protyagom_roku.md)
