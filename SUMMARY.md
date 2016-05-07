@@ -87,4 +87,5 @@
        * [Додавання і віднімання трицифрових чисел](3/dodavannya_ta_vydnymannya_tritsifrovih_chisel.md)
            * [Усне додавання і віднімання круглих трицифрових чисел (450 + 270, 450 – 270)](3/usne_dodavannya_ta_vydnymannya_kruglih_tritsifrovih_chysel.md)
            * [Письмове додавання й віднімання трицифрових чисел](3/pismove_dodavannya_i_vydnymannya_tritsifrovih_chisel.md)
+       * Множення і ділення трицифрових чисел
 
