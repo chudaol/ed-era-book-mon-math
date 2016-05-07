@@ -84,4 +84,5 @@
        * [Таблиці множення і ділення (продовження)](3/tablitsy_mnozhennya_ta_dylennya_prodovzhennya.md)
        * [Нумерація чисел в концентрі «Тисяча»](3/numeratsya_chisel_v_kontsentry_tisyacha.md)
            * [Арифметичні дії з числами на основі нумерації](3/arifmetichny_dii_z_chislami_na_osnovy_numeratsy.md)
+       * Додавання і віднімання трицифрових чисел
 
