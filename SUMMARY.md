@@ -69,7 +69,7 @@
        * [Узагальнення і систематизація навчального матеріалу за 1-й клас](2/uzagalnennya_ta_sistematizatsya_navchalnogo_materalu.md)
        * [Час](2/chas_2_klas.md)
        * [Іменовані числа](2/imenovany_chisla.md)
-       * [Периметр  многокутника](perimetr_mnogokutnika.md)
+       * [Периметр  многокутника](2/perimetr_mnogokutnika.md)
    * [Сюжетні задачі  (протягом року)](syuzhetny_zadachy_protyagom_roku.md)
        * [Узагальнення і систематизація навчального матеріалу за  1-й клас](uzagalnennya_ta_sistematizatsya_navchalnogo_materalu_za_1_klas.md)
        * [Прості задачі](prosty_zadachy.md)
