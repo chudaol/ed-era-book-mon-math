@@ -49,7 +49,7 @@
        * [Табличне множення та ділення](2/tablichne_mnozhennya_ta_dylennya.md)
            * [Арифметичні дії множення і ділення](2/arifmetichny_dii_mnozhennya_ta_dylennya.md)
            * [Таблиці множення і ділення](2/tablitsy_mnozhennya_ta_dylennya.md)
-           * [Відношення кратного порівняння](vydnoshennya_kratnogo_poryvnyannya.md)
+           * [Відношення кратного порівняння](2/vydnoshennya_kratnogo_poryvnyannya.md)
            * [Правила знаходження невідомих компонентів дій множення і ділення](pravila_znahodzhennya_nevydomih_komponentyv_diu_mnozhennya.md)
    * [Просторові відношення. Геометричні фігури (протягом року)](prostorovy_vydnoshennya_geometrichnyh_fyguri_protyagom_roku.md)
        * [Узагальнення і систематизація навчального матеріалу за 1-й клас](uzagalnennya_ta_sistematizatsya_navchalnogo_materyalu_za_1_klas.md)
