@@ -24,7 +24,7 @@
        * [Знаходження невідомого компонента арифметичних дій](1/znahodzhennya_nevidomogo_komponenta_arifmetichnih.md)
    * [Математичні вирази. Рівності. Нерівності (протягом року)](1/matematichni_virazi_rivnosti_nerivnosti_protyagom_roku.md)
        * [Числові рівності і нерівності](1/chislovi_rvnosti__nervnosti.md)
-       * [Математичні вирази](matematichni_virazi.md)
+       * [Математичні вирази](1/matematichni_virazi.md)
    * [Величини (протягом року)](velichini_protyagom_roku.md)
        * [Довжина](dovzhina.md)
        * [Маса](masa.md)
