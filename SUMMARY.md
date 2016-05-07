@@ -76,4 +76,5 @@
        * [Поняття складеної задачі](ponyattya_skladenoy_zadachy.md)
        * [Розв’язування складених задач](rozvyazuvannya_skladenih_zadach.md)
        * [Розв’язування задач різними способами.](rozvyazuvannya_zadach_ryznymi_sposobami.md)
+       * Загальні прийоми розв’язування задач
 
