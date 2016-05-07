@@ -55,7 +55,7 @@
        * [Узагальнення і систематизація навчального матеріалу за 1-й клас](2/uzagalnennya_ta_sistematizatsya_navchalnogo_materyalu_za_1_klas.md)
            * [Пряма, промінь, відрізок](2/pryama_promyn_vydryzok.md)
            * [Кути](2/kuty.md)
-       * [Ламана](lamana.md)
+       * [Ламана](2/lamana.md)
        * [Многокутник](mnogokutnyk.md)
        * [Прямокутник](pryamokutnyk.md)
        * [Коло і круг](kolo_ta_krug.md)
