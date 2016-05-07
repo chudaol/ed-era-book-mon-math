@@ -66,4 +66,5 @@
            * [Числові вирази, які містять дужки](chislovy_virazi_yaky_mystyat_duzhki.md)
            * [Вирази зі змінною](virazi_zi_zmynnoyu.md)
    * [Величини (протягом року)](velychini_protyagom_roku.md)
+       * Узагальнення і систематизація навчального матеріалу за 1-й клас
 
