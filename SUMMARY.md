@@ -58,5 +58,5 @@
        * [Ламана](lamana.md)
        * [Многокутник](mnogokutnyk.md)
        * [Прямокутник](pryamokutnyk.md)
-       * Коло і круг
+       * [Коло і круг](kolo_ta_krug.md)
 
