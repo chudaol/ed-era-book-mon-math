@@ -94,5 +94,5 @@
    * [Просторові відношення. Геометричні фігури (протягом року)](3/prostorovy_vydnoshennya_geometrichnyh_fguri_protyagom_roku.md)
    * [Математичні вирази. Рівності. Нерівності (протягом року)](3/matematichn_virazi_rvnost_nervnost_protyagom_roku.md)
        * [Числові вирази](3/chislovy_virazi.md)
-       * Числові рівності й нерівності
+       * [Числові рівності й нерівності](3/chislovy_rvnosty_i_nervnosty.md)
 
