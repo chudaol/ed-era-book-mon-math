@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Пояснювальна записка](chapter1.md)
+* [Пояснювальна записка](poyasnuvalna_zapyska.md)
 * [Характеристика змісту навчання](chapter2.md)
 * [1 клас](1/chapter3.md)
    * [Узагальнення і систематизація математичних уявлень, сформованих у передшкільний період](1/uzagalnennya__sistematizatsya_matematichnih_uyavlen.md)
