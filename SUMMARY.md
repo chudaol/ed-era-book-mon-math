@@ -69,5 +69,5 @@
        * [Узагальнення і систематизація навчального матеріалу за 1-й клас](uzagalnennya_ta_sistematizatsya_navchalnogo_materalu.md)
        * [Час](chas_2_klas.md)
        * [Іменовані числа](imenovany_chisla.md)
-       * Периметр  многокутника
+       * [Периметр  многокутника](perimetr_mnogokutnika.md)
 
