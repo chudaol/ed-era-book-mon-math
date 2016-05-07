@@ -11,7 +11,7 @@
        * [Просторові відношення](1/prostorovi_vidnoshennya.md)
        * [Геометричні фігури](1/geometrichni_fguri.md)
    * [Числа. Дії з числами](1/chisla_dii_z_chislami.md)
-       * [Лічба](lichba.md)
+       * [Лічба](1/lichba.md)
        * [Натуральні числа 1–10. Число 0](naturalni_chisla_1_10_chislo_0.md)
        * [Арифметичні дії додавання й віднімання чисел у межах 10](arifmetichni_dii_dodavannya_i_vdnmannya_chisel.md)
        * [Табличне додавання й віднімання в межах 10](tablichne_dodavannya_i_vidnmannya_v_mezhah_10.md)
