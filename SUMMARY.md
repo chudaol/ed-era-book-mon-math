@@ -26,7 +26,7 @@
        * [Числові рівності і нерівності](1/chislovi_rvnosti__nervnosti.md)
        * [Математичні вирази](1/matematichni_virazi.md)
    * [Величини (протягом року)](1/velichini_protyagom_roku.md)
-       * [Довжина](dovzhina.md)
+       * [Довжина](1/dovzhina.md)
        * [Маса](masa.md)
        * [Місткість](mstkist.md)
        * [Вартість](vartist.md)
