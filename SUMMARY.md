@@ -97,4 +97,5 @@
        * [Числові рівності й нерівності](3/chislovy_rvnosty_i_nervnosty.md)
        * [Вирази зі змінною](3/virazi_zi_zmynnoyu.md)
        * [Рівняння](3/ryvnyannya.md)
+       * Нерівності зі змінною
 
