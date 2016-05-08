@@ -30,5 +30,7 @@
 </ul>
 <ul type="disc">
 <li><a href="http://mathmon14.ed-era.com/2/prostorovy_vydnoshennya_geometrichnyh_fyguri_protyagom_roku.html">Просторові відношення. Геометричні фігури (протягом року)</a></li>
+<ul type="circle">
+<li><a href="http://mathmon14.ed-era.com/2/uzagalnennya_ta_sistematizatsya_navchalnogo_materyalu_za_1_klas.html">Узагальнення і систематизація навчального матеріалу за 1-й клас</a></li>
 </ul>
 </ul>
