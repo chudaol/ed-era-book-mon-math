@@ -132,4 +132,5 @@
    * [Математичні вирази. Рівності. Нерівності (протягом року)](4/matematichny_virazi_ryvnosty_neryvnosty_protyagom_roku.md)
        * [Числові вирази](4/chislovy_virazi.md)
        * [Вирази зі змінною](4/virazi_zy_zmynnoyu.md)
+       * Рівняння
 
