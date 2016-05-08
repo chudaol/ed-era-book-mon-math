@@ -128,6 +128,11 @@
        * [Геометричні фігури на площині](4/geometrichny_fyguri_na_ploschiny.md)
            * [Кут](4/kut.md)
            * [Многокутники](4/mnogokutniki.md)
-           * [Геометричні фігури у просторі](4/geometrichny_fyguri_u_prostory.md)
        * [Геометричні фігури у просторі](4/geometrichny_fyguri_u_prostory.md)
+   * [Математичні вирази. Рівності. Нерівності (протягом року)](4/matematichny_virazi_ryvnosty_neryvnosty_protyagom_roku.md)
+       * [Числові вирази](4/chislovy_virazi.md)
+       * [Вирази зі змінною](4/virazi_zy_zmynnoyu.md)
+       * [Рівняння](4/ryvnyannya.md)
+       * [Нерівність](4/neryvnyst.md)
+   * [Величини (протягом року)](4/velichini_protyagom_roku.md)
 
