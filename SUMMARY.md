@@ -128,6 +128,4 @@
        * [Геометричні фігури на площині](4/geometrichny_fyguri_na_ploschiny.md)
            * [Кут](4/kut.md)
            * [Многокутники](4/mnogokutniki.md)
-           * [Геометричні фігури у просторі](4/geometrichny_fyguri_u_prostory.md)
-       * [Геометричні фігури у просторі](4/geometrichny_fyguri_u_prostory.md)
 
