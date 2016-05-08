@@ -123,5 +123,5 @@
            * [Письмове додавання і віднімання багатоцифрових чисел](4/pismove_dodavannya_ta_vydnmannya_bagatotsifrovih_chisel.md)
            * [Письмове множення і ділення  багатоцифрового числа на одноцифрове](4/pismove_mnozhennya_ta_dylennya_bagatotsifrovogo_chisla.md)
            * [Письмове множення і ділення на двоцифрові та трицифрові числа](4/pismove_mnozhennya_ta_dylennya_na_dvotsifrovy_ta_tritsyfrovi_chysla.md)
-       * Дроби
+       * [Дроби](4/drobi.md)
 
