@@ -130,5 +130,5 @@
            * [Многокутники](4/mnogokutniki.md)
        * [Геометричні фігури у просторі](4/geometrichny_fyguri_u_prostory.md)
    * [Математичні вирази. Рівності. Нерівності (протягом року)](4/matematichny_virazi_ryvnosty_neryvnosty_protyagom_roku.md)
-       * Числові вирази
+       * [Числові вирази](4/chislovy_virazi.md)
 
