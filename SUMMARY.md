@@ -112,4 +112,5 @@
 * [4 клас](4/4_klas.md)
    * [Числа. Дії з числами](4/chisla_dii_z_chislami.md)
        * [Узагальнення і систематизація навчального матеріалу за 3-й клас](4/uzagalnennya_ta_sistematizatsya_navchalnogo_materyalu.md)
+       * Письмові прийоми множення та ділення
 
