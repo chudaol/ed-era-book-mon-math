@@ -133,4 +133,5 @@
        * [Числові вирази](4/chislovy_virazi.md)
        * [Вирази зі змінною](4/virazi_zy_zmynnoyu.md)
        * [Рівняння](4/ryvnyannya.md)
+       * Нерівність
 
