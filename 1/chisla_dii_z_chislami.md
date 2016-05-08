@@ -1,4 +1,5 @@
 # Числа. Дії з числами
+<p><b>Зміст розділу:</b></p>
 <ul type="circle">
 <li><a href="http://mathmon14.ed-era.com/1/lichba.html">Лічба</a></li>
 <li><a href="http://mathmon14.ed-era.com/1/naturalni_chisla_1_10_chislo_0.html">Натуральні числа 1–10. Число 0</a></li>
