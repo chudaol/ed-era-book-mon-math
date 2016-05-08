@@ -33,7 +33,6 @@ $(document).ready(function () {
   }
 
   init();
-  window.location.reload();
   require(["gitbook"], function (gitbook) {
     gitbook.events.bind("page.change", init);
   });
