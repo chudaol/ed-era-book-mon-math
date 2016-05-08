@@ -27,7 +27,7 @@
 <div id="hypercomments_widget"></div>
 <script type="text/javascript">
 _hcwp = window._hcwp || [];
-_hcwp.push({widget:"Stream", widget_id: 74671});
+_hcwp.push({widget:"Stream", social = "google, facebook, vk", widget_id: 74671});
 (function() {
 if("HC_LOAD_INIT" in window)return;
 HC_LOAD_INIT = true;
