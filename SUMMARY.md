@@ -109,5 +109,5 @@
        * [Складені задачі](3/skladeny_zadachy.md)
        * [Загальні прийоми розв’язування задач](3/zagalny_priiomi_rozvyazuvannya_zadach.md)
    * [Додаткові теми](3/dodatkovy_temi.md)
-* 4 клас
+* [4 клас](4/4_klas.md)
 
