@@ -105,4 +105,5 @@
        * [Периметр прямокутника (квадрата)](3/perimetr_pryamokutnika_kvadrata.md)
    * [Сюжетні задачі (протягом року)](3/syuzhetny_zadachy_protyagom_roku.md)
        * [Прості та складені задачі вивчених видів](3/prosty_ta_skladeny_zadachy_vivchenih_vidiv.md)
+       * Прості задачі
 
