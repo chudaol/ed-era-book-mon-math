@@ -1,5 +1,6 @@
 $(document).ready(function () {
   function init () {
+    
     var href, $lastLink;
     
     $("a[aria-label=Search]").remove();
@@ -32,8 +33,8 @@ $(document).ready(function () {
   }
 
   init();
+  window.location.reload();
   require(["gitbook"], function (gitbook) {
     gitbook.events.bind("page.change", init);
-    location.reload();
   });
 });
