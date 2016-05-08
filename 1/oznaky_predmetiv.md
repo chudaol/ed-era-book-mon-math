@@ -29,7 +29,6 @@
 
 <div id="hypercomments_widget"></div>
 <script type="text/javascript">
-location.reload();
 _hcwp = window._hcwp || [];
 _hcwp.push({widget:"Stream", social:"facebook, vk, google, twitter", widget_id: 74671});
 (function() {
