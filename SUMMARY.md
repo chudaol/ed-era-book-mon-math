@@ -74,7 +74,6 @@
        * [Прості задачі](2/prosty_zadachy.md)
        * [Поняття складеної задачі](2/ponyattya_skladenoy_zadachy.md)
        * [Розв’язування складених задач](2/rozvyazuvannya_skladenih_zadach.md)
-       * [Розв’язування задач різними способами.](2/rozvyazuvannya_zadach_ryznymi_sposobami.md)
        * [Загальні прийоми розв’язування задач](2/zagalny_priiomi_rozvyazuvannya_zadach.md)
    * [Додаткові теми](2/dodatkovy_temi.md)
 * [3 клас](3/3_klas.md)
