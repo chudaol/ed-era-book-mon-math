@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Вступна частина](README.md)
 * [Пояснювальна записка](poyasnuvalna_zapyska.md)
 * [Характеристика змісту навчання](kharakteristyka_zmisty_navchannya.md)
 * [1 клас](1/chapter3.md)
