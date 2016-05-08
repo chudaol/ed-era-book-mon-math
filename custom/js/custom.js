@@ -31,11 +31,12 @@ $(document).ready(function () {
       }
     });
   }
+  
+    function reload () {
+      window.location.reload();
+    }
 
   init();
   require(["gitbook"], function (gitbook) {
-    gitbook.events.bind("page.change", init, function () {
-      window.location.reload();
-      });
-  });
+    gitbook.events.bind("page.change", init, reload)
 });
