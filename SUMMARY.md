@@ -135,4 +135,6 @@
        * [Рівняння](4/ryvnyannya.md)
        * [Нерівність](4/neryvnyst.md)
    * [Величини (протягом року)](4/velichini_protyagom_roku.md)
+   * [Сюжетні задачі (протягом року)](4/syuzhetny_zadachy_protyagom_roku.md)
+       * [Прості й складені задачі](4/prosty_i_skladeny_zadachy.md)
 
