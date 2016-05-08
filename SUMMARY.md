@@ -134,5 +134,5 @@
        * [Вирази зі змінною](4/virazi_zy_zmynnoyu.md)
        * [Рівняння](4/ryvnyannya.md)
        * [Нерівність](4/neryvnyst.md)
-   * Величини (протягом року)
+   * [Величини (протягом року)](4/velichini_protyagom_roku.md)
 
