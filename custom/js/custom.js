@@ -2,7 +2,6 @@ $(document).ready(function () {
   function init () {
     
     var href, $lastLink;
-    location.reload();
     $("a[aria-label=Search]").remove();
     $("a.toggle-search").remove();
 
