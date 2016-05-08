@@ -108,5 +108,5 @@
        * [Прості задачі](3/prosty_zadachy.md)
        * [Складені задачі](3/skladeny_zadachy.md)
        * [Загальні прийоми розв’язування задач](3/zagalny_priiomi_rozvyazuvannya_zadach.md)
-   * Додаткові теми
+   * [Додаткові теми](3/dodatkovy_temi.md)
 
