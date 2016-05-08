@@ -126,5 +126,5 @@
        * [Дроби](4/drobi.md)
    * [Просторові відношення. Геометричні фігури (протягом року)](4/prostorovy_vydnoshennya_geometrichnch_fyguri.md)
        * [Геометричні фігури на площині](4/geometrichny_fyguri_na_ploschiny.md)
-           * Кут
+           * [Кут](4/kut.md)
 
