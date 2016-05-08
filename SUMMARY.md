@@ -120,4 +120,5 @@
            * [Усна та письмова нумерація багатоцифрових чисел](4/usna_ta_pismova_numeratsya_bagatotsifrovih_chisel.md)
            * [Усні обчислення на основі нумерації багатоцифрових чисел](4/usny_obchislennya_na_osnovy_numeratsyy_bagatotsifrovih_chysel.md)
        * [Арифметичні дії з багатоцифровими числами](4/arifmetichny_dyy_z_bagatotsifrovimi_chislami.md)
+           * Письмове додавання і віднімання багатоцифрових чисел
 
