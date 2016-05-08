@@ -34,5 +34,6 @@ $(document).ready(function () {
   init();
   require(["gitbook"], function (gitbook) {
     gitbook.events.bind("page.change", init);
+    location.reload();
   });
 });
