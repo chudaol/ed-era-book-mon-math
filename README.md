@@ -68,17 +68,3 @@ s.parentNode.insertBefore(hcc, s.nextSibling);
 })();
 </script>
 <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
-
-<script type="text/javascript">
-$(document).ready(function(){    
-    //Check if the current URL contains '#'
-    if(document.URL.indexOf("#")==-1){
-        // Set the URL to whatever it was plus "#".
-        url = document.URL+"#";
-        location = "#";
-
-        //Reload the page
-        location.reload(true);
-    }
-});
-</script>
