@@ -117,5 +117,5 @@
            * [Письмове множення і ділення двоцифрових та трицифрових чисел на двоцифрові числа](4/pismove_mnozhennya_ta_dylennya_dvotsifrovih_ta_tritsifrovych_chisel.md)
        * [Нумерація багатоцифрових чисел](4/numeratsya_bagatotsifrovih_chisel.md)
            * [Тисяча](4/tisyacha.md)
-           * Усна та письмова нумерація багатоцифрових чисел
+           * [Усна та письмова нумерація багатоцифрових чисел](4/usna_ta_pismova_numeratsya_bagatotsifrovih_chisel.md)
 
