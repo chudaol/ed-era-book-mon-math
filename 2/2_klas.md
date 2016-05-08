@@ -25,12 +25,23 @@
 <li><a href="http://mathmon14.ed-era.com/2/arifmetichny_dii_mnozhennya_ta_dylennya.html">Арифметичні дії множення і ділення</a></li>
 <li><a href="http://mathmon14.ed-era.com/2/tablitsy_mnozhennya_ta_dylennya.html">Таблиці множення і ділення</a></li>
 <li><a href="http://mathmon14.ed-era.com/2/vydnoshennya_kratnogo_poryvnyannya.html">Відношення кратного порівняння</a></li>
-<li><a href="http://mathmon14.ed-era.com/2/pravila_znahodzhennya_nevydomih_komponentyv_diu_mnozhennya.html">Правила знаходження невідомих компонентів дій множення і ділення</a></li>
+<li><a href="http://mathmon14.ed-era.com/2/pravila_znahodzhennya_nevydomih_komponentyv_diu_mnozhennya.html">Правила знаходження невідомих компонентів дій множення і ділення</a></li></ul>
 </ul>
-</ul>
-<ul type="disc">
 <li><a href="http://mathmon14.ed-era.com/2/prostorovy_vydnoshennya_geometrichnyh_fyguri_protyagom_roku.html">Просторові відношення. Геометричні фігури (протягом року)</a></li>
 <ul type="circle">
 <li><a href="http://mathmon14.ed-era.com/2/uzagalnennya_ta_sistematizatsya_navchalnogo_materyalu_za_1_klas.html">Узагальнення і систематизація навчального матеріалу за 1-й клас</a></li>
+<li><a href="http://mathmon14.ed-era.com/2/kuti.html">Кути</a></li>
+<li><a href="http://mathmon14.ed-era.com/2/lamana.html">Ламана</a></li>
+<li><a href="http://mathmon14.ed-era.com/2/mnogokutnyk.html">Многокутник</a></li>
+<li><a href="http://mathmon14.ed-era.com/2/pryamokutnyk.html">Прямокутник</a></li>
+<li><a href="http://mathmon14.ed-era.com/2/kolo_ta_krug.html">Коло і круг</a></li>
 </ul>
+<li><a href="http://mathmon14.ed-era.com/2/matematichny_virazi_ryvnosty_neryvnosty_protyagom_roku.html">Математичні вирази. Рівності. Нерівності (протягом року)</a></li>
+<ul type="circle">
+<li><a href="http://mathmon14.ed-era.com/2/uzagalnennya_i_sistematizatsya_navchalnogo_materalu_za_1_klas.html">Узагальнення і систематизація навчального матеріалу за 1-й клас</a></li>
+<li><a href="http://mathmon14.ed-era.com/2/matematichny_virazi.html">Математичні вирази</a></li>
+<ul type="square">
+<li><a href="http://mathmon14.ed-era.com/2/matematichny_virazi_dobutok_ta_chastka.html">Математичні вирази: добуток та частка</a></li>
+<li><a href="http://mathmon14.ed-era.com/2/chislovy_virazi_yaky_mystyat_duzhki.html">Числові вирази, які містять дужки</a></li>
+<li><a href="http://mathmon14.ed-era.com/2/virazi_zi_zmynnoyu.html">Вирази зі змінною</a></li>
 </ul>
