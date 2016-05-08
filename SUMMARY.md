@@ -114,4 +114,5 @@
        * [Узагальнення і систематизація навчального матеріалу за 3-й клас](4/uzagalnennya_ta_sistematizatsya_navchalnogo_materyalu.md)
        * [Письмові прийоми множення та ділення](4/pismovy_priiomi_mnozhennya_ta_dylennya.md)
            * [Письмове множення і ділення двоцифрових та трицифрових чисел на одноцифрове](4/pismove_mnozhennya_ta_dylennya_dvotsifrovih_ta_tritsifrovyx_chysel.md)
+           * Письмове множення і ділення двоцифрових та трицифрових чисел на двоцифрові числа
 
