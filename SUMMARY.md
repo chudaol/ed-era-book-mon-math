@@ -125,4 +125,5 @@
            * [Письмове множення і ділення на двоцифрові та трицифрові числа](4/pismove_mnozhennya_ta_dylennya_na_dvotsifrovy_ta_tritsyfrovi_chysla.md)
        * [Дроби](4/drobi.md)
    * [Просторові відношення. Геометричні фігури (протягом року)](4/prostorovy_vydnoshennya_geometrichnch_fyguri.md)
+       * Геометричні фігури на площині
 
