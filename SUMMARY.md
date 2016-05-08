@@ -129,5 +129,5 @@
            * [Кут](4/kut.md)
            * [Многокутники](4/mnogokutniki.md)
            * [Геометричні фігури у просторі](4/geometrichny_fyguri_u_prostory.md)
-       * [Геометричні фігури у просторі](4/geometrichn_fguri_u_prostor.md)
+       * [Геометричні фігури у просторі](4/geometrichny_fyguri_u_prostory.md)
 
