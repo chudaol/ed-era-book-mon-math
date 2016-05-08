@@ -47,3 +47,30 @@
            * [Додавання й віднімання чисел на основі нумерації у межах 100](1/dodavannya_i_vidnimannya_chisel_na_osnovi_numeratsii.md)
            * [Додавання й віднімання чисел у межах 100 без переходу через розряд (ознайомлення)](1/dodavannya_i_vidnmannya_chisel_u_mezhah_100_bez_perehody.md)
        * [Знаходження невідомого компонента арифметичних дій](1/znahodzhennya_nevidomogo_komponenta_arifmetichnih.md)
+
+<div id="hypercomments_widget"></div>
+<script type="text/javascript">
+$(document).ready(function(){    
+    //Check if the current URL contains '#'
+    if(document.URL.indexOf("#")==-1){
+        // Set the URL to whatever it was plus "#".
+        url = document.URL+"#";
+        location = "#";
+
+        //Reload the page
+        location.reload(true);
+    }
+});
+_hcwp = window._hcwp || [];
+_hcwp.push({widget:"Stream", social:"facebook, vk, google, twitter", widget_id: 74671});
+(function() {
+if("HC_LOAD_INIT" in window)return;
+HC_LOAD_INIT = true;
+var lang = "uk";
+var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true;
+hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://w.hypercomments.com/widget/hc/74671/"+lang+"/widget.js";
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(hcc, s.nextSibling);
+})();
+</script>
+<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
