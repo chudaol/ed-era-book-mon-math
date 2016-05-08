@@ -107,5 +107,5 @@
        * [Прості та складені задачі вивчених видів](3/prosty_ta_skladeny_zadachy_vivchenih_vidiv.md)
        * [Прості задачі](3/prosty_zadachy.md)
        * [Складені задачі](3/skladeny_zadachy.md)
-       * Загальні прийоми розв’язування задач
+       * [Загальні прийоми розв’язування задач](3/zagalny_priiomi_rozvyazuvannya_zadach.md)
 
