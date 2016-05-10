@@ -2,9 +2,9 @@
     "plugins": [
         "addcssjs",
         "quiz",
-        "mathjax",
         "-comment",
-        "-search"
+        "-search",
+        "-sharing"
     ],
     "pluginsConfig": {
         "sharing": {
