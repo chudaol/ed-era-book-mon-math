@@ -1,5 +1,6 @@
 $(document).ready(function () {
   function hypercommnet () {
+     $(".book-body .body-inner").scrollTop($(".book-body .body-inner")[0].scrollHeight);
     _hcwp = window._hcwp || [];
     _hcwp.push({widget:"Stream", social:"facebook, vk, google", widget_id: 74671});
     (function() {
@@ -43,7 +44,9 @@ $(document).ready(function () {
         $("img#map3").hide();
       }
     });
-    hypercommnet();
+    if ($("#hypercomments_widget").length > 0) {
+      hypercommnet();
+    }
   }
   
 
