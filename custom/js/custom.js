@@ -2,7 +2,7 @@ $(document).ready(function () {
   function hypercommnet () {
      $(".book-body .body-inner").scrollTop($(".book-body .body-inner")[0].scrollHeight);
     _hcwp = window._hcwp || [];
-    _hcwp.push({widget:"Stream", social:"facebook, vk, google", widget_id: 74671});
+    _hcwp.push({widget:"Stream", social:"facebook, vk, google, twitter", widget_id: 74671});
     (function() {
       HC_LOAD_INIT = true;
       var lang = "uk";
