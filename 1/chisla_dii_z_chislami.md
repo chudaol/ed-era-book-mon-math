@@ -15,3 +15,6 @@
 </ul>
 <li><a href="http://mathmon14.ed-era.com/1/znahodzhennya_nevidomogo_komponenta_arifmetichnih.html">Знаходження невідомого компонента арифметичних дій</a></li>
 </ul>
+
+<div id="hypercomments_widget"></div>
+<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>

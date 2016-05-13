@@ -27,3 +27,6 @@
 <i>порівнює</i> числа в межах 100 на основі порядку слідування чисел у натуральному ряді та на основі їх розрядного складу<br></td>
   </tr>
 </table>
+
+<div id="hypercomments_widget"></div>
+<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>

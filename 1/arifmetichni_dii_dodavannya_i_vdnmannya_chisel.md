@@ -25,3 +25,6 @@
 <i>використовує</i> під час обчислень властивості додавання й віднімання нуля, віднімання від числа того самого числа<br></td>
   </tr>
 </table>
+
+<div id="hypercomments_widget"></div>
+<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>

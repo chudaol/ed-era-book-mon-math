@@ -16,3 +16,6 @@
 <i>прогнозує</i> результат додавання і віднімання з огляду на те, що при додаванні натуральних чисел дістанемо більше число, а при відніманні – менше<br></td>
   </tr>
 </table>
+
+<div id="hypercomments_widget"></div>
+<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>

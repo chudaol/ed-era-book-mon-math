@@ -21,3 +21,6 @@
 <i>будує</i> відрізок заданої довжини<br></td>
   </tr>
 </table>
+
+<div id="hypercomments_widget"></div>
+<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>

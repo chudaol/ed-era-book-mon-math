@@ -12,3 +12,6 @@
 <i>застосовує</i> у процесі виконання завдань правила знаходження невідомих компонентів арифметичних дій–доданка, зменшуваного, від’ємника<br></td>
   </tr>
 </table>
+
+<div id="hypercomments_widget"></div>
+<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>

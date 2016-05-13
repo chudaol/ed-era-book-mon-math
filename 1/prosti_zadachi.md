@@ -16,3 +16,6 @@
 <i>складає</i> задачі за рисунками, схемами, коротким записом задачі, виразом<br></td>
   </tr>
 </table>
+
+<div id="hypercomments_widget"></div>
+<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>

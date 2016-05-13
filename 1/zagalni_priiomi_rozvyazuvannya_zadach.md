@@ -16,3 +16,6 @@
 <i>формулює</i> усно повну відповідь на запитання задачі<br></td>
   </tr>
 </table>
+
+<div id="hypercomments_widget"></div>
+<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>

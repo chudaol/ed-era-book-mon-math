@@ -15,3 +15,6 @@
 <i>пояснює</i> вибір рівності чи нерівності, складеної за виконанням практичних вправ із сукупностями предметів та за даними малюнками, схемами<br></td>
   </tr>
 </table>
+
+<div id="hypercomments_widget"></div>
+<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>

@@ -17,3 +17,6 @@
 <i>використовує</i> у записах скорочене позначення одиниць вимірювання маси (кг)<br></td>
   </tr>
 </table>
+
+<div id="hypercomments_widget"></div>
+<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
