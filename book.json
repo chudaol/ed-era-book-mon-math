@@ -2,7 +2,7 @@
     "plugins": [
         "addcssjs",
         "quiz",
-        "mathjax",
+        "-mathjax",
         "-comment",
         "-search",
         "-sharing"
