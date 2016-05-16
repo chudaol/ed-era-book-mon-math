@@ -52,3 +52,6 @@
            * [Додавання й віднімання чисел на основі нумерації у межах 100](1/dodavannya_i_vidnimannya_chisel_na_osnovi_numeratsii.md)
            * [Додавання й віднімання чисел у межах 100 без переходу через розряд (ознайомлення)](1/dodavannya_i_vidnmannya_chisel_u_mezhah_100_bez_perehody.md)
        * [Знаходження невідомого компонента арифметичних дій](1/znahodzhennya_nevidomogo_komponenta_arifmetichnih.md)
+
+<div id="hypercomments_widget"></div>
+<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
