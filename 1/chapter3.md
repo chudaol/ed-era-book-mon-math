@@ -1,3 +1,4 @@
+<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
 # 1 клас
 
@@ -53,5 +54,6 @@
 <li><a href="http://mathmon14.ed-era.com/1/dodatkovi_temi.html">Додаткові теми</a></li>
 </ul>
 
-<div id="hypercomments_widget"></div>
-<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+<div class="js-hypercomments-container">
+    <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+</div>
