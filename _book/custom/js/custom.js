@@ -1,6 +1,16 @@
 $(document).ready(function () {
   function hypercommnet () {
-     $(".book-body .body-inner").scrollTop($(".book-body .body-inner")[0].scrollHeight);
+
+    var interval = setInterval(function() {
+      var hypercommentsWidget = $('.js-hypercomments-widget');
+      if(hypercommentsWidget.children().length) {
+        hypercommentsWidget = hypercommentsWidget.remove();
+        hypercommentsWidget.appendTo('.js-hypercomments-container');
+        hypercommentsWidget.removeClass("invisible");
+        clearInterval(interval);
+      }
+    }, 100)
+
     _hcwp = window._hcwp || [];
     _hcwp.push({widget:"Stream", social:"facebook, vk, google, twitter", widget_id: 74671});
     (function() {
@@ -54,5 +64,7 @@ $(document).ready(function () {
 
   require(["gitbook"], function (gitbook) {
     gitbook.events.bind("page.change", init)
+
+  $(this).scrollTop(0);  
   });
 });

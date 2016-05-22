@@ -64,5 +64,7 @@ $(document).ready(function () {
 
   require(["gitbook"], function (gitbook) {
     gitbook.events.bind("page.change", init)
+
+  $(this).scrollTop(0);  
   });
 });
