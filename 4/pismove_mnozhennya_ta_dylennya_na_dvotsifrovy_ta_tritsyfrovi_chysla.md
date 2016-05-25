@@ -1,3 +1,5 @@
+<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
+
 # Письмове множення і ділення на двоцифрові та трицифрові числа
 <table>
   <tr>
@@ -19,3 +21,7 @@
 <i>володіє</i> обчислювальними навичками письмового ділення на двоцифрове число<br></td>
   </tr>
 </table>
+
+<div class="js-hypercomments-container">
+    <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+</div>

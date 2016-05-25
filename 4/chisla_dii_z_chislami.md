@@ -1,3 +1,5 @@
+<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
+
 # Числа. Дії з числами
 <p><b>Зміст розділу:</b></p>
 <ul type="circle">
@@ -21,3 +23,7 @@
 </ul>
 <li><a href="http://mathmon14.ed-era.com/4/drobi.html">Дроби</a></li>
 </ul>
+
+<div class="js-hypercomments-container">
+    <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+</div>

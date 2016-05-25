@@ -1,3 +1,5 @@
+<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
+
 # Частини
 <table>
   <tr>
@@ -20,3 +22,7 @@
 <i>застосовує</i> в обчисленнях правило знаходження частини від числа та числа за його частиною<br></td>
   </tr>
 </table>
+
+<div class="js-hypercomments-container">
+    <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+</div>

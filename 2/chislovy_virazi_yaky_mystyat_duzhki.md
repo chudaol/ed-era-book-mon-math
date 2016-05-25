@@ -1,3 +1,5 @@
+<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
+
 # Числові вирази, які містять дужки
 <table>
   <tr>
@@ -15,3 +17,7 @@
 <i>обчислює</i> значення виразів (з дужками та без них) на 2 - 3 дії одного або різних ступенів<br></td>
   </tr>
 </table>
+
+<div class="js-hypercomments-container">
+    <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+</div>

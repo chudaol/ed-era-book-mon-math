@@ -1,3 +1,5 @@
+<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
+
 # Таблиці додавання і віднімання
 <table>
   <tr>
@@ -18,3 +20,7 @@
 <i>володіє</i> навичками додавання і віднімання з переходом через десяток у межах 20<br></td>
   </tr>
 </table>
+
+<div class="js-hypercomments-container">
+    <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+</div>

@@ -1,3 +1,5 @@
+<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
+
 # Периметр прямокутника (квадрата)
 
 <table>
@@ -17,3 +19,7 @@
 <i>розв’язує</i> задачі на обчислення довжини сторони  прямокутника (квадрата) за відомими периметром і довжиною однієї сторони прямокутника<br></td>
   </tr>
 </table>
+
+<div class="js-hypercomments-container">
+    <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+</div>

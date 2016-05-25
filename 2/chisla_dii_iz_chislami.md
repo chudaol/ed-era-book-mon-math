@@ -1,3 +1,5 @@
+<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
+
 # Числа. Дії з числами
 <p><b>Зміст розділу:</b></p>
 <ul type="circle">
@@ -19,3 +21,7 @@
 <li><a href="http://mathmon14.ed-era.com/2/vydnoshennya_kratnogo_poryvnyannya.html">Відношення кратного порівняння</a></li>
 <li><a href="http://mathmon14.ed-era.com/2/pravila_znahodzhennya_nevydomih_komponentyv_diu_mnozhennya.html">Правила знаходження невідомих компонентів дій множення і ділення</a></li></ul>
 </ul>
+
+<div class="js-hypercomments-container">
+    <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+</div>

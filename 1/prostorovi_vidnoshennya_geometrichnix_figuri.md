@@ -1,3 +1,5 @@
+<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
+
 # Просторові відношення. Геометричні фігури (протягом року)
 
 <p><b>Зміст розділу:</b></p>
@@ -6,5 +8,6 @@
 <li><a href="http://mathmon14.ed-era.com/1/geometrichni_fguri.html">Геометричні фігури</a></li>
 </ul>
 
-<div id="hypercomments_widget"></div>
-<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+<div class="js-hypercomments-container">
+    <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+</div>

@@ -1,3 +1,5 @@
+<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
+
 # Усне додавання і віднімання чисел у межах 100 з переходом через розряд
 <table>
   <tr>
@@ -19,3 +21,7 @@
 <i>перевіряє</i> правильність виконання додавання й віднімання відомими способами<br></td>
   </tr>
 </table>
+
+<div class="js-hypercomments-container">
+    <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+</div>

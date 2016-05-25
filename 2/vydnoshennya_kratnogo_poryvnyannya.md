@@ -1,3 +1,5 @@
+<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
+
 # Відношення кратного порівняння
 <table>
   <tr>
@@ -17,3 +19,7 @@
 <i>знаходить</i> число, яке у кілька разів більше (менше) за дане<br></td>
   </tr>
 </table>
+
+<div class="js-hypercomments-container">
+    <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+</div>

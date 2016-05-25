@@ -1,3 +1,5 @@
+<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
+
 # Числа. Дії з числами
 <p><b>Зміст розділу:</b></p>
 <ul type="circle">
@@ -16,5 +18,6 @@
 <li><a href="http://mathmon14.ed-era.com/1/znahodzhennya_nevidomogo_komponenta_arifmetichnih.html">Знаходження невідомого компонента арифметичних дій</a></li>
 </ul>
 
-<div id="hypercomments_widget"></div>
-<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+<div class="js-hypercomments-container">
+    <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+</div>

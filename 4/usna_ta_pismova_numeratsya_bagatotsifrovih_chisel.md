@@ -1,3 +1,5 @@
+<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
+
 # Усна та письмова нумерація багатоцифрових чисел
 <table>
   <tr>
@@ -25,3 +27,7 @@
 <i>визначає</i> загальну кількість одиниць певного розряду та класу в числі<br></td>
   </tr>
 </table>
+
+<div class="js-hypercomments-container">
+    <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+</div>

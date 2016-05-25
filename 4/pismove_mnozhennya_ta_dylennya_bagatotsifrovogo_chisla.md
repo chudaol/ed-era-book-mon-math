@@ -1,3 +1,5 @@
+<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
+
 # Письмове множення і ділення  багатоцифрового числа на одноцифрове
 <table>
   <tr>
@@ -23,3 +25,7 @@
 <i>володіє</i> навичками письмового множення і ділення на одноцифрове число<br></td>
   </tr>
 </table>
+
+<div class="js-hypercomments-container">
+    <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+</div>

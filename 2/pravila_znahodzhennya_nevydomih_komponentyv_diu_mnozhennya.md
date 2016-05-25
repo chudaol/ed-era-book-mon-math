@@ -1,3 +1,5 @@
+<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
+
 # Правила знаходження невідомих компонентів дій множення і ділення
 <table>
   <tr>
@@ -11,3 +13,7 @@
 <i>застосовує</i> в обчисленнях правила знаходження невідомих  множника, діленого, дільника<br></td>
   </tr>
 </table>
+
+<div class="js-hypercomments-container">
+    <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+</div>

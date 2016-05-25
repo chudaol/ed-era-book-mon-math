@@ -1,3 +1,5 @@
+<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
+
 # Письмове додавання й віднімання трицифрових чисел
 <table>
   <tr>
@@ -14,3 +16,7 @@
 <i>перевіряє</i> правильність виконання додавання і віднімання вивченими способами<br></td>
   </tr>
 </table>
+
+<div class="js-hypercomments-container">
+    <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+</div>

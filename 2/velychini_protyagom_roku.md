@@ -1,3 +1,5 @@
+<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
+
 # Величини (протягом року)
 <p><b>Зміст розділу:</b></p>
 <ul type="circle">
@@ -6,3 +8,7 @@
 <li><a href="http://mathmon14.ed-era.com/2/imenovany_chisla.html">Іменовані числа</a></li>
 <li><a href="http://mathmon14.ed-era.com/2/perimetr_mnogokutnika.html">Периметр многокутника</a></li>
 </ul>
+
+<div class="js-hypercomments-container">
+    <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+</div>

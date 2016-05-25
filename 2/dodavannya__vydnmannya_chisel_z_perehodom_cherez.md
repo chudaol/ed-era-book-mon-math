@@ -1,3 +1,5 @@
+<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
+
 # Додавання і віднімання чисел з переходом через десяток у межах 20
 <table>
   <tr>
@@ -19,3 +21,7 @@
 <i>застосовує</i> переставний закон додавання, правила віднімання суми від числа, віднімання числа від суми в обчисленнях<br></td>
   </tr>
 </table>
+
+<div class="js-hypercomments-container">
+    <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+</div>

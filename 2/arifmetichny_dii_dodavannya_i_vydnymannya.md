@@ -1,3 +1,5 @@
+<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
+
 # Арифметичні дії додавання й віднімання. Додавання і віднімання чисел у межах 100  без переходу через розряд
 <table>
   <tr>
@@ -20,3 +22,7 @@
 <i>володіє</i> обчислювальними навичками додавання і віднімання чисел без переходу через десяток у межах 100<br></td>
   </tr>
 </table>
+
+<div class="js-hypercomments-container">
+    <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+</div>

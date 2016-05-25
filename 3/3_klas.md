@@ -1,3 +1,5 @@
+<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
+
 # 3 клас
 140 год (4 години на тиждень)
 ---------------------
@@ -48,3 +50,7 @@
 </ul>
 <li><a href="http://mathmon14.ed-era.com/3/dodatkovy_temi.html">Додаткові теми</a></li>
 </ul>
+
+<div class="js-hypercomments-container">
+    <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+</div>

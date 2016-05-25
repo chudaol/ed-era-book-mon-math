@@ -1,3 +1,5 @@
+<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
+
 # Нумерація чисел в концентрі «Тисяча»
 <table>
   <tr>
@@ -31,3 +33,7 @@
 <i>порівнює</i> числа в межах тисячі на основі порядку слідування чисел у натуральному ряді та на основі десяткового складу чисел<br></td>
   </tr>
 </table>
+
+<div class="js-hypercomments-container">
+    <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+</div>

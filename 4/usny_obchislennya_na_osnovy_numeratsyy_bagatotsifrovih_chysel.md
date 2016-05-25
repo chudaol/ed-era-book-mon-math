@@ -1,3 +1,5 @@
+<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
+
 # Усні обчислення на основі нумерації багатоцифрових чисел
 <table>
   <tr>
@@ -19,3 +21,7 @@
 <i>виконує</i> ділення круглих чисел на круглі <br></td>
   </tr>
 </table>
+
+<div class="js-hypercomments-container">
+    <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+</div>

@@ -1,3 +1,5 @@
+<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
+
 # Вирази зі змінною
 <table>
   <tr>
@@ -14,3 +16,7 @@
 <i>знаходить</i> значення виразу при заданому числовому значенні змінної з опорою на зразок<br></td>
   </tr>
 </table>
+
+<div class="js-hypercomments-container">
+    <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+</div>

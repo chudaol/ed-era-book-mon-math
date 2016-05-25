@@ -1,3 +1,5 @@
+<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
+
 # Дроби
 <table>
   <tr>
@@ -22,3 +24,7 @@
 <i>застосовує</i> правила знаходження дробу від числа та числа за значенням його дробу під час розв’язування практично зорієнтованих завдань<br></td>
   </tr>
 </table>
+
+<div class="js-hypercomments-container">
+    <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+</div>

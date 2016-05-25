@@ -1,3 +1,5 @@
+<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
+
 # Арифметичні дії з числами на основі нумерації
 <table>
   <tr>
@@ -19,3 +21,7 @@
 <i>виконує</i> множення одноцифрового числа на кругле та ділення на кругле число різними способами<br></td>
   </tr>
 </table>
+
+<div class="js-hypercomments-container">
+    <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+</div>
