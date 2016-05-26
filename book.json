@@ -1,7 +1,7 @@
 {
     "gitbook": ">=3.0.0-pre.11",
     "title": "GitBook Help Center",
-    "plugins": ["-search", "fontsettings", "-sharing", "addcssjs", "quiz"],
+    "plugins": ["-search", "fontsettings", "-sharing", "addcssjs", "quiz", "mathjax"],
     "pluginsConfig": {
         "addcssjs": {
             "css": [
