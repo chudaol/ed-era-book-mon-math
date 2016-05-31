@@ -1,6 +1,6 @@
 {
     "gitbook": ">=3.0.0-pre.11",
-    "title": "GitBook Help Center",
+    "title": "EdEra Mon Math",
     "plugins": ["-search", "fontsettings", "-sharing", "addcssjs", "quiz", "mathjax"],
     "pluginsConfig": {
         "theme-default": {
