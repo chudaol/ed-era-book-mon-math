@@ -3,6 +3,9 @@
     "title": "GitBook Help Center",
     "plugins": ["-search", "fontsettings", "-sharing", "addcssjs", "quiz", "mathjax"],
     "pluginsConfig": {
+        "theme-default": {
+            "showLevel": true
+        },
         "addcssjs": {
             "css": [
                 "custom/css/style.css"
