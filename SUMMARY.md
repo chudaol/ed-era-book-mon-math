@@ -5,7 +5,7 @@
 * [Характеристика змісту навчання](kharakteristyka_zmisty_navchannya.md)
 
 ### 1 Клас
-* [Зміст Розділу](1/chapter3.md)
+* [1 клас](1/chapter3.md)
 * [Узагальнення і систематизація математичних уявлень, сформованих у передшкільний період](1/uzagalnennya__sistematizatsya_matematichnih_uyavlen.md)
    * [Ознаки предметів](1/oznaky_predmetiv.md)
    * [Ознаки, пов’язані із поняттям величини](1/oznaki_povyazani_z_ponyattyam_velychini.md)
@@ -41,7 +41,7 @@
 * [Додаткові теми](1/dodatkovi_temi.md)
 
 ### 2 Клас
-* [Зміст Розділу](2/2_klas.md)
+* [2 клас](2/2_klas.md)
 * [Числа. Дії з числами](2/chisla_dii_iz_chislami.md)
    * [Узагальнення і систематизація навчального матеріалу за 1-й клас](2/uzagalnennya__sistematizatsya_navchalnogo_materyalu.md)
        * [Нумерація чисел першої сотні](2/numeratsya_chisel_pershoy_sotny.md)
@@ -82,7 +82,7 @@
 * [Додаткові теми](2/dodatkovy_temi.md)
 
 ### 3 Клас
-* [Зміст Розділу](3/3_klas.md)
+* [3 клас](3/3_klas.md)
 * [Числа. Дії з числами](3/chisla_dii_z_chislami.md)
    * [Узагальнення і систематизація навчального матеріалу за  2-й клас](3/uzagalnennya_ta_sistematizatsya_navchalnogo_materyalu.md)
    * [Таблиці множення і ділення (продовження)](3/tablitsy_mnozhennya_ta_dylennya_prodovzhennya.md)
@@ -115,7 +115,7 @@
 * [Додаткові теми](3/dodatkovy_temi.md)
 
 ### 4 Клас
-* [Зміст Розділу](4/4_klas.md)
+* [4 клас](4/4_klas.md)
 * [Числа. Дії з числами](4/chisla_dii_z_chislami.md)
    * [Узагальнення і систематизація навчального матеріалу за 3-й клас](4/uzagalnennya_ta_sistematizatsya_navchalnogo_materyalu.md)
    * [Письмові прийоми множення та ділення](4/pismovy_priiomi_mnozhennya_ta_dylennya.md)
@@ -144,4 +144,3 @@
 * [Сюжетні задачі (протягом року)](4/syuzhetny_zadachy_protyagom_roku.md)
    * [Прості й складені задачі](4/prosty_i_skladeny_zadachy.md)
    * [Загальні прийоми розв’язування задач](4/zagalny_priiomi_rozvyazuvannya_zadach.md)
-
