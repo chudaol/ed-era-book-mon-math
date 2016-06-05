@@ -1,6 +1,7 @@
 ### Вступ
 
 * [Вступна частина](README.md)
+* [Зміст програми](zmist.md)
 * [Пояснювальна записка](poyasnuvalna_zapyska.md)
 * [Характеристика змісту навчання](kharakteristyka_zmisty_navchannya.md)
 
