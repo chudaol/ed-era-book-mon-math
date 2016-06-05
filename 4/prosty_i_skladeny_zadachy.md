@@ -40,7 +40,7 @@
     <td width="60%" style="vertical-align:top !important;"><i>розв’язує</i> задачі з буквеними даними способом складання виразу.</td>
   </tr>
   <tr>
-    <td width="40%" style="vertical-align:top !important;">Задачі міжпредметного змісту на роботу з даними</td>
+    <td width="40%" style="vertical-align:top !important;">Задачі міжпредметного змісту на роботу з даними.</td>
     <td width="60%" style="vertical-align:top !important;"><i>розуміє і використовує</i> у навчальних і життєвих ситуаціях інформацію з таблиць та лінійних діаграм;<br>
 <i>упорядковує</i> дані описаних подій.<br></td>
   </tr>
