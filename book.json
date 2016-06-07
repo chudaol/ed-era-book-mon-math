@@ -1,10 +1,19 @@
 {
     "gitbook": ">=3.0.0-pre.11",
     "title": "Математика",
-    "plugins": ["-search", "fontsettings", "-sharing", "addcssjs", "quiz", "mathjax", "-comments"],
+    "plugins": ["-search", "fontsettings", "sharing", "addcssjs", "quiz", "mathjax", "-comments"],
     "pluginsConfig": {
         "theme-default": {
             "showLevel": true
+        },
+        "sharing": {
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "weibo": false,
+            "instapaper": false,
+            "vk": false,
+            "all": []
         },
         "addcssjs": {
             "css": [
